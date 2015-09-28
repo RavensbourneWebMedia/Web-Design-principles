@@ -1,16 +1,16 @@
 <!--# Web Design principles-->
 
-During this project you will learn the principles of visual communication by researching and designing *objects that communicate*. 
+### During this project you will learn the principles of visual communication by researching and designing *objects that communicate*. 
 
-In particular, you will
+In particular, you will:
 
-* examine how people make sense of visual perceptions, which will help you make informed design decisions
-* explore different ways of looking at and framing everyday objects through photography and image manipulation
-* experiment with typography and graphic layout to turn data into information and evoke meaning
-* use HTML and CSS to turn unstructured data intro structured,  aesthetically cohesive and accessible information
-* get familiar with the edgeless medium of the Web and Responsive Web Design methods
-* work in teams, learning from your peers and teaching them what you learned
-* document your work regularly and reflect on your creative process
+* Examine how people **make sense of visual perceptions**, which will help you make informed design decisions.
+* Explore different ways of looking at and framing everyday objects through **photography** and **image manipulation**.
+* Experiment with **typography** and **graphic layout** to turn data into information and evoke meaning.
+* Use **HTML** and **CSS** to turn unstructured data into structured, aesthetically cohesive and accessible information.
+* Get familiar with the edgeless medium of the Web and **Responsive Web Design** methods.
+* Work in **teams**, learning from your peers and teaching them what you learned.
+* **Document** your work regularly and **reflect** on your creative process.
 
 
 # Plan
@@ -49,9 +49,24 @@ This **team project** is about about symbols, shapes and **branding**. By design
 
 ### Code in your plate
 
-This project introduces you to **coding** as a process of *translation*: from ideas to words, from words to sketches, from sketches to descriptions in various languages. 
+This project introduces you to **coding** as a process of *translation*: from ideas to words, from words to sketches, from sketches to technical descriptions in various languages. 
 
 You will get familiar with 2 of the 3 languages of the Web: **HTML** and **CSS** (JavaScript next term).
+
+
+
+# Learning goals
+
+By the end of this course, you will be able to:
+
+1. Use **principles of visual perception** to make informed design decisions.
+* Experiment with framing, lighting and colour to create and manipulate **photographic images**.
+* Tinker with fonts, sizes and layout (aka **typography**) to create meaning and evoke emotions with text.
+* Play with ideas and turn them into visual **symbols** and shapes.
+* Turn unstructured data into structured, aesthetically cohesive and accessible information using **HTML** and **CSS**.
+* **Document** your creative process, from the exploration of ideas to their practical implementation. Including *successes* and *failures*.
+* Adapt your **communication** to different audiences and contexts (eg: team meeting vs presentation).
+* Use the Git version-control system (through GitHub) to **collaborate** with your team and **back-up** your project files.
 
 
 
