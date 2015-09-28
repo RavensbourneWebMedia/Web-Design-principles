@@ -2,12 +2,23 @@
 
 ### Today, Wednesday 30th September 2015
 
-1. [Welcome](#welcome) 
+1. [Welcome](#welcome) :)
 * Ways of seeing
 * Team project: [EyeBombing](#team-project)  
 * Workshop: MarkDown and GitHub
 
 ### Your [homework](#homework) and [blog](#blog)!
+
+# Welcome
+
+1. [What is this course about?](../../README.md)
+* [What's the plan?](../../README.md#plan) Make sure you subscribe to the [calendar feed](https://www.google.com/calendar/ical/rave.ac.uk_agop0ff7kdgdc289jdrl5021gs%40group.calendar.google.com/public/basic.ics)! 
+* [What can you learn?](../../README.md#learning-goals)
+* Keeping a **journal** to record your creative process is *extremely* important. Don't let your ideas and thoughts fade away! Think of your project blog as your **digital sketchbook**. More on that [here](https://github.com/RavensbourneWebMedia/Blogging#why-blogging).
+* Reading lists and perusing the library (we'll also share some PDFs).
+* **Peer learning**: [one of the most effective ways](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects/) to learn something is to teach it to someone else. During this course you'll be sharing your skills and knowledge in class, leading mini-tutorials and moderating debates. Starting with [your homework for next week](#peer-learning-research)! 
+
+
 
 # Homework
 
