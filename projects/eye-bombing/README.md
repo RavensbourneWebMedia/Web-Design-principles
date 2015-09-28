@@ -39,7 +39,11 @@ When reviewing your images, we will look for:
 
 ### Tutorials and tools
 
-* [Photography courses on Lynda](http://www.lynda.com/Photography-training-tutorials/70-0.html), which you have free access to as a Ravensbourne student (go to [tinyurl.com/ravelynda](http://tinyurl.com/ravelynda))
+Photography courses on Lynda.com, which you have free access to as a Ravensbourne student (go to [tinyurl.com/ravelynda](http://tinyurl.com/ravelynda)), in particular:
+
+* You can start from [this short video](http://www.lynda.com/Photoshop-tutorials/Seeing-compositing-possibilities/374612/411110-4.html) about seeing the **possibilities** for how a scene or subject can be framed (*framing* and *composition* can be used as synonyms for the sake of our project).
+* Follow this [foundation course on composition](http://www.lynda.com/Photography-Photo-Assignments-tutorials/Foundations-of-Photography-Composition/80299-2.html).
+* Try this [challenge](http://www.lynda.com/course-tutorials/5-Day-Photo-Challenge-Composition/383423-2.html).
 
 
 <!--
