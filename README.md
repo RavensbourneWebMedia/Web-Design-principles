@@ -25,10 +25,33 @@ Wednesday<br>14.10| <ul><li>Peer-learning: Photoshop tricks  <li>Tutorials on *O
 Wednesday<br>21.10| <ul><li>Peer learning: Illustrator tricks <li>Tutorials on *The Union Hack* <li>Workshop: how to present your work | Prepare formative (tweak your work) | TBA
 Wednesday<br>28.10| **Formative presentations** with guest lecturer |  | Reflection blog
 Week 6<br>Mozfest|
-Wednesday<br>11.11| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual theory powers your design practice <li>Visual design quiz <li>Workshop: grid systems  <li>Project: [**There’s code in your plate**](#theres-code-in-your-plate) | Work on *There’s code in your plate* | The Web's Grain
-Wednesday<br>18.11| <ul><li>Workshop: HTML + CSS, Responsive Web Design <li>Tutorials on *There’s code in your plate* |  <ul><li>Peer-learning research: CSS tricks <li>Work on *There’s code in your plate* | *There’s code in your plate*
-Wednesday<br>25.11| <ul><li>Peer-learning: CSS tricks <li>Tutorials on *There’s code in your plate* <li> Summative prep | Prepare summative (tweak your work) | *There’s code in your plate*
+Wednesday<br>11.11| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual theory powers your design practice <li>Visual design quiz <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
+Wednesday<br>18.11| <ul><li>Workshop: HTML + CSS, Responsive Web Design <li>Tutorials on *Code in your plate* |  <ul><li>Peer-learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
+Wednesday<br>25.11| <ul><li>Peer-learning: CSS tricks <li>Tutorials on *Code in your plate* <li> Summative prep | Prepare summative (tweak your work) | *Code in your plate*
 Wednesday<br>02.12| **Summative presentations**
+
+
+# Projects
+
+### EyeBombing
+
+This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
+
+All the project material [here](projects/eye-bombing).
+
+### OneTweet
+
+This project is about about **typography** and creating *meaning with text*.
+
+### The Union Hack
+
+This **team project** is about about symbols, shapes and **branding**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
+
+### Code in your plate
+
+This project introduces you to **coding** as a process of *translation*: from ideas to words, from words to sketches, from sketches to descriptions in various languages. 
+
+You will get familiar with 2 of the 3 languages of the Web: **HTML** and **CSS** (JavaScript next term).
 
 
 
