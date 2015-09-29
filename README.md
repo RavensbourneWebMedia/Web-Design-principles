@@ -37,7 +37,7 @@ Wednesday<br>02.12| **Summative presentations**
 
 This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
 
-All the project material [here](projects/eye-bombing).
+All the project material is [here](projects/eye-bombing).
 
 ### OneTweet
 

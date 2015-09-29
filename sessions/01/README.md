@@ -117,6 +117,36 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 * What is the relationship between what you see and what you make? What you make and how you are seen?
 
 
+# Team project
+
+### EyeBombing 
+
+This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
+
+All the project material is [here](../../projects/eye-bombing).
+
+Today:
+
+1. Form teams.
+* Start photographing objects around Ravensbourne.
+* Set up a GitHub repository for your team project.
+
+Between today and next week:
+
+1. Continue capturing images, both individually and as a team.
+* Edit images (optional). 
+* Record your creative process in your blogs.
+
+Next week:
+
+1. Review your work in class
+* What have you made?
+* How can you improve it?
+
+Formative presentation (28.10):
+
+1. Present your work as a team, both process and results.
+* Reflect on what you learned from it.
 
 
 
