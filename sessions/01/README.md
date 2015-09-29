@@ -3,11 +3,12 @@
 ### Today, Wednesday 30th September 2015
 
 1. [Welcome](#welcome) :)
-* [Ways of seeing](#ways-of-seeing)
+* Discussion: [Ways of seeing](#ways-of-seeing)
 * Team project: [EyeBombing](#team-project)  
-* Workshop: MarkDown and GitHub
+* Workshop: [GitHub and MarkDown](#workshop)
 
 ### Your [homework](#homework) and [blog](#blog)!
+
 
 # Welcome
 
@@ -149,6 +150,49 @@ Formative presentation (28.10):
 * Reflect on what you learned from it.
 
 
+# Workshop
+
+### GitHub 
+
+Check out [this handy guide](https://github.com/RavensbourneWebMedia/Guides/blob/master/how-to-git.md) on *what* Git is, *how* it works and *why* you should use it.
+
+It boils down to a couple of things:
+
+* **Organisation**: keeping backed up versions of your work.
+* **Collaboration**: working on the same projects with many other people (*many* can mean thousands) effectively.
+
+[![](https://raw.githubusercontent.com/RavensbourneWebMedia/Guides/master/assets/git-graphic-giraffe.png)](https://github.com/RavensbourneWebMedia/Guides/blob/master/how-to-git.md)
+
+
+1. Go to [GitHub](https://github.com/) and *sign up*.
+* Create an *organisation* for your project team.
+* Create a *repository* for your team project (EyeBombing).
+* Download and install [SourceTree](https://www.sourcetreeapp.com/): it's a free app to manage Git-based projects.
+* *Clone* your project (EyeBombing) repository on your computer.
+* *Add* one or more (EyeBombing) images to it. *Commit* and *push* to GitHub. 
+
+
+### MarkDown
+
+What does **marking up** mean?
+
+> The idea and terminology evolved from the marking up of paper manuscripts: the revision instructions by editors, traditionally written with a blue pencil on authors' manuscripts.
+
+> From [Wikipedia](http://en.wikipedia.org/wiki/Markup_language)
+
+All your **digital texts** are marked up, whether you see the **markup** or not. That is, they contain instructions for computers to make a word **bold**, another *italic* or <u>underlined</u> and so on.
+
+**HTML** is one of many markup languages, the one used to mark up documents (aka *hypertexts*) on the WWW.
+
+**Markdown** lets you write using an easy-to-read, easy-to-write plain text format, then convert it to HTML.
+
+1. Download and install [Mou](http://25.io/mou) if you're on a Mac, or [MarkdownPad](http://markdownpad.com) if you're on Windows. Alternatively, you can work on MD online using [StackEdit](https://stackedit.io).
+* Read this [easy guide (3 minutes)](https://guides.github.com/features/mastering-markdown) on writing MD.
+* Edit your team project (EyeBombing) **README.md** document:
+	* Add all your **team members**, with at least one link (to social media profiles, personal pages, or whatever you please) per person.
+	* Write a short project **blurb**, so that visitors to your GitHub repository can get what it is all about.
+	* Display one or more images that you have already pushed to the repository. 
+* *Commit* and *push* to GitHub.
 
 # Homework
 
