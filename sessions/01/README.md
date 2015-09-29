@@ -211,7 +211,7 @@ Choose a *visual perception principle* to research and teach next week (one per 
 7. Similarity
 8. Past experience
 
-In your presentation you may include:
+Your presentation should be **~15 minutes** and you may include:
 
 * Summary of main ideas
 * Links, images, or videos of projects / products / things referenced in your research
