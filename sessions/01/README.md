@@ -198,23 +198,23 @@ All your **digital texts** are marked up, whether you see the **markup** or not.
 
 ### Peer-learning research
 
-Choose a *visual perception principle* to research and teach next week:
+8 **teams** of ~3 people each. You may want to stick to the same *EyeBombing* team.
+
+Choose a *visual perception principle* to research and teach next week (one per team):
 
 1. Closure
 2. Symmetry
-3. figure/ground relationship
+3. Figure/ground relationship
 4. Connectedness 
 5. Proximity
 6. Continuation
 7. Similarity
 8. Past experience
 
-<!-- 8 teams (~3 people each) -->
-
-In your planning / presentation you might include:
+In your presentation you may include:
 
 * Summary of main ideas
-* Links, images, or video of projects / products / things referenced in your research
+* Links, images, or videos of projects / products / things referenced in your research
 * Other relevant things you've read, heard or seen
 * Personal experiences
 
