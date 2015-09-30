@@ -200,7 +200,7 @@ All your **digital texts** are marked up, whether you see the **markup** or not.
 
 8 **teams** of ~3 people each. You may want to stick to the same *EyeBombing* team.
 
-Choose a *visual perception principle* to research and teach next week (one per team):
+Choose a **visual perception principle** to *research* and *teach* next week (one per team):
 
 1. Closure
 2. Symmetry
@@ -211,14 +211,17 @@ Choose a *visual perception principle* to research and teach next week (one per 
 7. Similarity
 8. Past experience
 
-Your presentation should be **~15 minutes** and you may include:
+Your team **presentation** (bear in mind, *presentation* does not mean PowerPoint slides.. be creative) should be **~15 minutes** and you may include:
 
 * Summary of main ideas
-* Links, images, or videos of projects / products / things referenced in your research
+* Links, images or videos of projects / products / things referenced in your research
 * Other relevant things you've read, heard or seen
+* Examples and demonstrations
 * Personal experiences
 
-Each team should also prepare **1-2 questions for the class**. After hearing the presentations, we will have a short group discussion around these questions.
+Each team should also prepare **1-2 questions for the class**. After your presentation, we will have a short group discussion around these questions.
+
+Make sure your presentation and any other relevant material is **published online** (for instance on GitHub.. but it could be elsewhere as long as it's accessible by anyone). You can publish *after* you've presented next week.
 
 
 ### Project 
