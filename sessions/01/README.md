@@ -140,7 +140,7 @@ Today:
 
 Between today and next week:
 
-1. Continue capturing images, both individually and as a team.
+1. Continue capturing images, both individually and as a team. You may want to borrow a DSLR camera from the CLR...
 * Edit images (optional). 
 * Record your creative process in your blogs.
 
