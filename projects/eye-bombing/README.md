@@ -11,7 +11,7 @@ We'll look at everyday objects and our surroundings with different eyes and use 
 
 1. Form **teams** of 2-3 people
 * Look for **faces** in everyday objects and your surroundings.
-* **Photograph** them.
+* **Photograph** them. Don't take just one picture of a subject, but capture it from many different angles. The more, the better (see [criteria](#criteria) below).
 * Photographs can be **edited**, in which case you must submit both the original shot and the edited image.
 * Create a *GitHub repository* for your team project and **submit** all your images there. 
 
