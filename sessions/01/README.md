@@ -30,13 +30,16 @@ One of the key skills of a designer is the ability to look at what surrounds you
 
 > [Minor White](https://en.wikipedia.org/wiki/Minor_White), photographer
 
-When you're about to snap a picture, or when browsing through images, ask yourself: 
-
-**What else could this be?**
+### What else could this be?
 
 [![](https://c1.staticflickr.com/1/635/21793377515_d56a624435_b.jpg)](https://www.flickr.com/photos/foilman/21793377515/in/pool-facesinplaces/)
 
-### How do we see? 
+When you're about to snap a picture, or when browsing through images, always ask yourself: 
+
+*What else could this be?* 
+
+
+### How do we *see*? 
 
 ![](assets/apple-eye.png)
 
@@ -56,7 +59,7 @@ When you're about to snap a picture, or when browsing through images, ask yourse
 	
 	When data has entered the brain, we have the option to discard it or continue thinking about it. Information stays for about 20-30 seconds in *short-term memory* before it is either forgotten or passed on to *long-term memory*.
 
-### What is the difference between seeing and looking?
+### What is the difference between *seeing* and *looking*?
 	
 You should watch the series [Ways of Seeing](https://youtu.be/XShzabEv8bM?t=2m37s) by John Berger (and/or read [the book](https://en.wikipedia.org/wiki/Ways_of_Seeing)). All the following quotes come from the book.
 	
@@ -68,7 +71,7 @@ Looking is the result of an **active decision**. We decide what to look at and w
 
 > Each evening we *see* the sun set. We *know* that the earth is turning away from it. Yet the knowledge, the explanation, never quite fits the sight. 
 
-### How does our brain make sense of the things we see?
+### How does our brain *make sense* of the things we see?
 
 ![](assets/apples-cranach.jpg)
 
@@ -91,13 +94,16 @@ Are these apples? How do you [know](http://courtauld.ac.uk/gallery/collection/pa
 <!-- > But there is also another sense in which seeing comes before words. It is seeing which establishes our place in the
 surrounding world; we explain that world with words, but words can never undo the fact that we are surrounded by it. -->
 
+
 ### What is an *image*?
 
 [![](assets/pipe-magritte.jpg)](https://en.wikipedia.org/wiki/The_Treachery_of_Images)
 
+A large percentage of what we see on a daily basis are not first-hand impressions, but *images*.
+
 > An image is a sight that has been **recreated** or reproduced.
 	
-### Can you see the similarities between an eye and a camera?
+### Can you see the similarities between an *eye* and a *camera*?
 
 Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 
@@ -109,13 +115,13 @@ Why is it called [*camera*](https://en.wikipedia.org/wiki/Camera_obscura) btw?
 
 > Every image embodies a way of seeing. Even a photograph. For photographs are not, as is often assumed, a mechanical record. Every time we look at a photograph, we are aware, however slightly, of the photographer selecting that sight from an infinity of other **possible sights**.
 
-### How do we create images?
+<!--### How do we create images?
 
 * What are you looking at?
 * How do you look at things?
 * How do you want things to be looked at?
 * What do you look like?
-* What is the relationship between what you see and what you make? What you make and how you are seen?
+* What is the relationship between what you see and what you make? What you make and how you are seen?-->
 
 
 # Team project
