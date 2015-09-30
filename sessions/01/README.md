@@ -51,9 +51,8 @@ When you're about to snap a picture, or when browsing through images, always ask
 	
 	In the case of vision, **light** enters our eyes and stimulates our **retina**. Notice how light that comes from the *top* of our vision field will make an impression at the *bottom* of our retina.
 	
-	The optic nerve attached to the retina transfers that *raw data* to the brain.
-	
-* **Make sense**  
+	The optic nerve attached to the retina transfers that *raw data* to the brain.	
+2. **Make sense**  
 	
 	It is the brain that *flips* visual back to their natural orientation, to form *images* and **make sense** of what surrounds us.
 	
@@ -158,6 +157,8 @@ Formative presentation (28.10):
 
 # Workshop
 
+Let's get started with a couple of tools that are widely used in the industry.
+
 ### GitHub 
 
 Check out [this handy guide](https://github.com/RavensbourneWebMedia/Guides/blob/master/how-to-git.md) on *what* Git is, *how* it works and *why* you should use it.
@@ -169,16 +170,9 @@ It boils down to a couple of things:
 
 [![](https://raw.githubusercontent.com/RavensbourneWebMedia/Guides/master/assets/git-graphic-giraffe.png)](https://github.com/RavensbourneWebMedia/Guides/blob/master/how-to-git.md)
 
-
-1. Go to [GitHub](https://github.com/) and *sign up*.
-* Create an *organisation* for your project team.
-* Create a *repository* for your team project (EyeBombing).
-* Download and install [SourceTree](https://www.sourcetreeapp.com/): it's a free app to manage Git-based projects.
-* *Clone* your project (EyeBombing) repository on your computer.
-* *Add* one or more (EyeBombing) images to it. *Commit* and *push* to GitHub. 
-
-
 ### MarkDown
+
+MarkDown (MD) is the default rich-text format on GitHub.
 
 What does **marking up** mean?
 
@@ -188,9 +182,78 @@ What does **marking up** mean?
 
 All your **digital texts** are marked up, whether you see the **markup** or not. That is, they contain instructions for computers to make a word **bold**, another *italic* or <u>underlined</u> and so on.
 
-**HTML** is one of many markup languages, the one used to mark up documents (aka *hypertexts*) on the WWW.
+**HTML** is one of many markup languages, the one used to mark up documents (aka *hypertexts*) on the Web.
 
-**Markdown** lets you write using an easy-to-read, easy-to-write plain text format, then convert it to HTML.
+**Markdown** lets you write using an easy-to-read and easy-to-write plain text format, then convert it to HTML.
+
+Writing Markdown is the easiest way for you to get into the practice of **writing code**.
+
+### Everybody now..
+
+1. Go to [github.com/join](https://github.com/join) and *sign up*.
+* Choose the *Free* plan.
+* Verify your email (you won't be able to work with GitHub until you've done this).
+
+#### One person per team, let's call her person `A`
+
+1. [Create a new *organisation*](https://github.com/organizations/new) for your project team.
+* Choose the *Open Source* (free) plan.
+* Invite all your teammates to the new organisation.
+* Get all your teammates to visit the organisation page (it will be something like `github.com/ORGANISATION_NAME`) click on the `View invitation` button on the top-right and **join** the organisation.
+* Once a teammate joined, you can go to the `People` tab of your organisation and make them an **owner**. 
+
+<!--This will grant them the same privileges as you, because we like everyone to be equal.-->
+
+#### Another person in the team, let's call her person `B`
+
+1. Make sure you have joined the team organisation and person `A` made you an owner of the organisation.
+* Create a new *repository* for your team project (EyeBombing).
+* Make sure you `Initialize this repository with a README`.
+* Click on `README.md` and then `Edit this file`. 
+	
+	![](assets/edit-readme.gif)
+* Write a short project **blurb**, so that visitors to your GitHub repository can get what it is all about.
+* **Commit** it!   
+  
+	That means publishing your changes to that file. You should also write a short commit message (eg `Project blurb`) to let your teammates know what you made. 
+	
+	![](assets/commit-github.gif	)
+
+#### Another person in the team, let's call her person `C` 
+
+Use person `A` if you're only two
+
+1. Make sure you have joined the team organisation and person `A` made you an owner of the organisation.
+* Go to the project repository (EyeBombing), click on `README.md` and then `Edit this file`.
+* Add all your **team members**, with at least one link (to social media profiles, personal pages, or whatever you please) per person.
+* **Commit** it!  
+	
+	![](assets/commit-team-github.gif)
+
+
+
+#### Everybody
+
+1. Download and install [SourceTree](https://www.sourcetreeapp.com/): it's a free app to manage Git-based projects.
+* *Clone* your project (EyeBombing) repository on your computer.
+
+	![](assets/git-clone.gif)
+	
+	The *Source URL* will be your repository URL, something like `https://github.com/YOUR_ORGANISATION/EyeBombing`
+* *Add* one or more (EyeBombing) images to it. 
+
+	![](assets/git-add.gif)
+	
+	As soon as you add a file to the repository folder, it will show up on SourceTree.
+* *Commit* and *push* to GitHub. 
+
+	![](assets/git-commit.gif)
+	
+	Notice that as soon as you commit, a red `1` appears on top of the `Push` button. In order to upload your images to GitHub you need to *push* all your commits.
+
+
+
+<!--
 
 1. Download and install [Mou](http://25.io/mou) if you're on a Mac, or [MarkdownPad](http://markdownpad.com) if you're on Windows. Alternatively, you can work on MD online using [StackEdit](https://stackedit.io).
 * Read this [easy guide (3 minutes)](https://guides.github.com/features/mastering-markdown) on writing MD.
@@ -199,6 +262,8 @@ All your **digital texts** are marked up, whether you see the **markup** or not.
 	* Write a short project **blurb**, so that visitors to your GitHub repository can get what it is all about.
 	* Display one or more images that you have already pushed to the repository. 
 * *Commit* and *push* to GitHub.
+
+-->
 
 # Homework
 
