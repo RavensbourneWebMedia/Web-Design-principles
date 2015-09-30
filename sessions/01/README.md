@@ -73,7 +73,7 @@ Looking is the result of an **active decision**. We decide what to look at and w
 
 ### How does our brain *make sense* of the things we see?
 
-![](assets/apples-cranach.jpg)
+[![](assets/apples-cranach.jpg)](http://courtauld.ac.uk/gallery/collection/paintings/renaissance/lucas-cranach-the-elder-adam-and-eve)
 
 Are these apples? How do you [know](http://courtauld.ac.uk/gallery/collection/paintings/renaissance/lucas-cranach-the-elder-adam-and-eve)?
 
@@ -97,9 +97,9 @@ surrounding world; we explain that world with words, but words can never undo th
 
 ### What is an *image*?
 
-[![](assets/pipe-magritte.jpg)](https://en.wikipedia.org/wiki/The_Treachery_of_Images)
-
 A large percentage of what we see on a daily basis are not first-hand impressions, but *images*.
+
+[![](assets/pipe-magritte.jpg)](https://en.wikipedia.org/wiki/The_Treachery_of_Images)
 
 > An image is a sight that has been **recreated** or reproduced.
 	
