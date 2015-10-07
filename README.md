@@ -43,6 +43,8 @@ All the project material is [here](projects/eye-bombing).
 
 This project is about about **typography** and creating *meaning with text*.
 
+All the project material is [here](projects/one-tweet).
+
 ### The Union Hack
 
 This **team project** is about about symbols, shapes and **branding**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
