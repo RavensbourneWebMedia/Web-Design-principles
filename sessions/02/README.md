@@ -5,7 +5,7 @@
 1. [Peer learning](#peer-learning) 
 * Tutorials on [EyeBombing](#team-project)   
 * Introducing *typography* 
-* Project: [**OneTweet**](#onetweet)
+* Project: [OneTweet](#onetweet)
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -87,7 +87,28 @@ Beware of *freeloaders*.
 	
 #### What can be **improved**?
 
+# Team project
 
+### EyeBombing tutorials
+
+This **team project** is about *looking* and *creating images*. Looking at everyday objects and our surroundings with different eyes and using **photography** to frame them, so that others can see what we want them to see.
+
+All the project material is [here](../../projects/eye-bombing).
+
+### 8 teams
+
+### 10 minutes per team
+
+
+1. Let's see your **images** and **edits**.  
+	* What have you made?
+	* How can you improve them? Quality vs quantity, **visual perception** principles you could apply...
+* What has your **creative process** been so far?
+	
+	<!-- -->
+* What's your team **GitHub repository**? 
+
+	You may want to [create an *organisation*](https://github.com/organizations/new) (a GitHub group) for that. 
 
 
 
