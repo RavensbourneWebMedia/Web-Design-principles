@@ -274,13 +274,13 @@ Use person `A` if you're only two
 Choose a **visual perception principle** to *research* and *teach* next week (one per team):
 
 1. Closure
-2. Symmetry
-3. Figure/ground relationship
-4. Connectedness 
-5. Proximity
-6. Continuation
-7. Similarity
-8. Past experience
+* Symmetry
+* Figure/ground relationship
+* Connectedness 
+* Proximity
+* Continuation
+* Similarity
+* Past experience
 
 Your team **presentation** (bear in mind, *presentation* does not mean PowerPoint slides.. be creative) should be **~15 minutes** and you may include:
 
@@ -301,11 +301,8 @@ Work on *EyeBombing* **with your team**.
 
 ### Blog 
 
-**Individually**, write about *EyeBombing*. Reflect on the concept and document **your** thought process. You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
+**Individually**, write about *EyeBombing*. 
 
-<!--
-# TODO
+Reflect on the concept and document **your** thought process. 
 
-- [ ] Workshop: MarkDown and GitHub
-- [ ] How to document your progress (your blog as your online sketchbook / notebook)
--->
+You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
