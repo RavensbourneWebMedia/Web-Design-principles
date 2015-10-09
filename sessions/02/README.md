@@ -78,21 +78,21 @@ Beware of *freeloaders*.
 
 ### Let's give each other *honest* **feedback**
 
-#### Presentation **content**   
+#### Mini-lecture **content**   
 	
-1. How did you **plan** your presentation?
+1. How did you **plan** your mini-lecture?
 * What were the **key points** you wanted to get across?
 * How did you decide to communicate them?
 * What **assumptions** have you made about what we already know?
-* How **interactive** was your presentation? How was the audience meant to *participate*? 
+* How **interactive** was your mini-lecture? How was the audience meant to *participate*? 
 * What **questions** have you planned to ask your audience? How *open* were those questions? What type of questions (*Right-there*, *Between-the-lines* or *Opinion-needed* questions)?
 	
 #### **Delivery**
 	
-1. What role did **visuals** (eg: slides) play in your presentation?
-* What role did each **team member** play in delivering the presentation? 
-* How did you **practice** your presentation?
-* How did your presentation start? How did you *hook* your audience?
+1. What role did **visuals** (eg: slides) play in your mini-lecture?
+* What role did each **team member** play in delivering the mini-lecture? 
+* How did you **practice** your mini-lecture?
+* How did your mini-lecture start? How did you *hook* your audience?
 * What was your **body language** like? Consider facial expressions, movements of the arms, eye contact with the audience, and posture.
 * What was your **voice** like? Consider speed of delivery, pausing, volume and pitch
 	
@@ -177,10 +177,27 @@ All the project material is [here](../../projects/one-tweet).
 
 ### Peer learning
 
-1. **Publish** your presentation and any other relevant material. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
+#### Visual perception principles
 
-2. Add the link to your presentation (and any other relevant material) to the `Teams` Google document I emailed you.
+1. **Publish** your mini-lecture and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
 
+2. Add the link to your mini-lecture (and any other relevant material) to the `Teams` Google document I emailed you.
+
+#### Typography
+
+On the `Teams` Google document I emailed you, there's a new table with topics around **typography** for you to learn and teach next week.
+
+We'll do this again in *teams*, but not the same people you worked with this week.
+
+Your team **mini-lecture** should be **~15 minutes** and you may include:
+
+* **2-3 key ideas**
+* Links, images or videos of projects / products / things referenced in your research
+* Other relevant things you've read, heard or seen
+* **Examples** and demonstrations
+* Personal **experiences**
+
+Prepare **1-2 open questions to ask the class**. After your mini-lecture, we will have a short group discussion around these questions.
 
 
 <!--- 
@@ -202,7 +219,7 @@ Work on *OneTweet*.
 
 Pair up with another team and **give each other feedback** on your peer learning mini-lectures. 
 
-Use the feedback questions above to give / get feedback on your [presentations' content](#presentation-content) and [delivery](#delivery).
+Use the feedback questions above to give / get feedback on your [mini-lectures' content](#mini-lecture-content) and [delivery](#delivery).
 
 Then write down a *summary* of the feedback you received and a *list of action points* in response to the question: 
 
