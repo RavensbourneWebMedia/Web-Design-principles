@@ -179,7 +179,7 @@ All the project material is [here](../../projects/one-tweet).
 
 1. **Publish** your mini-lesson and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
 
-2. Add the link to your mini-lesson (and any other relevant material) to the `Teams` Google document I emailed you.
+2. Add the link to your mini-lesson (and any other relevant material) to the Google document I emailed you.
 
 ### Peer learning research
 
@@ -211,6 +211,7 @@ Topics:
 * How to **choose the right font** (among other things, check out [WhatFont](http://chengyinliu.com/whatfont.html))
 
 For everyone: check out [Thinking with Type](http://www.thinkingwithtype.com/)! 
+
 
 
 
