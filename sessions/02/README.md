@@ -37,7 +37,7 @@ You're here to teach to your peers and learn from them.
 
 #### We're here to become *co-learners*.
 
-At the end of your mini-lectures we'll give each other **feedback**. *Honest* feedback can hurt but it's through that (and practice) that we improve.
+At the end of your mini-lessons we'll give each other **feedback**. *Honest* feedback can hurt but it's through that (and practice) that we improve.
 
 <!--
 **Intellectual scaffolding** should be provided by the teacher. Simply placing students in groups and telling them to *work together* is not going to automatically yield results. The teacher must consciously *orchestrate* the learning exercise and choose the *appropriate vehicle* for it. For instance:
@@ -62,10 +62,10 @@ Beware of *freeloaders*.
 
 #### 15 minutes per team
 
-* ~10 for mini-lecture 
+* ~10 for mini-lesson 
 * ~5 for questions and debate
 
-#### Mini-lectures topics
+#### Mini-lessons topics
 
 1. Closure
 * Symmetry
@@ -78,21 +78,21 @@ Beware of *freeloaders*.
 
 ### Let's give each other *honest* **feedback**
 
-#### Mini-lecture **content**   
+#### Mini-lesson **content**   
 	
-1. How did you **plan** your mini-lecture?
+1. How did you **plan** your mini-lesson?
 * What were the **key points** you wanted to get across?
 * How did you decide to communicate them?
 * What **assumptions** have you made about what we already know?
-* How **interactive** was your mini-lecture? How was the audience meant to *participate*? 
+* How **interactive** was your mini-lesson? How was the audience meant to *participate*? 
 * What **questions** have you planned to ask your audience? How *open* were those questions? What type of questions (*Right-there*, *Between-the-lines* or *Opinion-needed* questions)?
 	
 #### **Delivery**
 	
-1. What role did **visuals** (eg: slides) play in your mini-lecture?
-* What role did each **team member** play in delivering the mini-lecture? 
-* How did you **practice** your mini-lecture?
-* How did your mini-lecture start? How did you *hook* your audience?
+1. What role did **visuals** (eg: slides) play in your mini-lesson?
+* What role did each **team member** play in delivering the mini-lesson? 
+* How did you **practice** your mini-lesson?
+* How did your mini-lesson start? How did you *hook* your audience?
 * What was your **body language** like? Consider facial expressions, movements of the arms, eye contact with the audience, and posture.
 * What was your **voice** like? Consider speed of delivery, pausing, volume and pitch
 	
@@ -175,13 +175,13 @@ All the project material is [here](../../projects/one-tweet).
 
 # Homework
 
-### Peer learning
+### Visual perception principles
 
-#### Visual perception principles
+1. **Publish** your mini-lesson and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
 
-1. **Publish** your mini-lecture and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
+2. Add the link to your mini-lesson (and any other relevant material) to the `Teams` Google document I emailed you.
 
-2. Add the link to your mini-lecture (and any other relevant material) to the `Teams` Google document I emailed you.
+### Peer learning research
 
 #### Typography
 
@@ -189,7 +189,7 @@ On the `Teams` Google document I emailed you, there's a new table with topics ar
 
 We'll do this again in *teams*, but not the same people you worked with this week.
 
-Your team **mini-lecture** should be **~15 minutes** and you may include:
+Your team **mini-lesson** should be **~15 minutes** and you may include:
 
 * **2-3 key ideas**
 * Links, images or videos of projects / products / things referenced in your research
@@ -197,7 +197,21 @@ Your team **mini-lecture** should be **~15 minutes** and you may include:
 * **Examples** and demonstrations
 * Personal **experiences**
 
-Prepare **1-2 open questions to ask the class**. After your mini-lecture, we will have a short group discussion around these questions.
+Prepare **1-2 open questions to ask the class**. After your mini-lesson, we will have a short group discussion around these questions.
+
+Topics:
+
+1. How do people **read**? 
+* **Typography vocabulary**: anatomy of a letter  
+* **Fonts**: serif, sans-serif etc, weights and styles (also check out the [type shape game](http://shape.method.ac/)) 
+* The personality of fonts: **expressive typography**
+* Horizontal and vertical **motion**: alignments, kerning, tracking and leading (also check out the [kerning game](http://type.method.ac/))
+* **Proportion**: typographic scales
+* [Web design 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period)
+* How to **choose the right font** (among other things, check out [WhatFont](http://chengyinliu.com/whatfont.html))
+
+For everyone: check out [Thinking with Type](http://www.thinkingwithtype.com/)! 
+
 
 
 <!--- 
@@ -217,9 +231,9 @@ Work on *OneTweet*.
 
 ### Blog 
 
-Pair up with another team and **give each other feedback** on your peer learning mini-lectures. 
+Pair up with another team and **give each other feedback** on your peer learning mini-lessons. 
 
-Use the feedback questions above to give / get feedback on your [mini-lectures' content](#mini-lecture-content) and [delivery](#delivery).
+Use the feedback questions above to give / get feedback on your [mini-lessons' content](#mini-lesson-content) and [delivery](#delivery).
 
 Then write down a *summary* of the feedback you received and a *list of action points* in response to the question: 
 
