@@ -3,6 +3,7 @@
 This project is about about **typography** and creating *meaning with text*.
 
 1. Choose a `tweet` (short text of up to 140 characters) from the [list below](#tweets).
+
 <!--A Tweet is an expression of a moment or idea. It can contain text, photos, and videos. Millions of Tweets are shared in real time, every day.-->
 * Use your chosen tweet to create a **poster**:
 	
@@ -20,7 +21,8 @@ This project is about about **typography** and creating *meaning with text*.
 	* Proximity
 	* Continuation
 	* Similarity
-	* Past experience 
+	* Past experience   
+<!---->
 * Create a *GitHub repository* for your project and push everything there: source files (`.ai` files), exports (`.pdf` `.png` etc.) as well as sketches, inspirations and thoughts.
 
 ### Tweets
