@@ -4,8 +4,9 @@
 
 1. [Peer learning](#peer-learning) 
 * Tutorials on [EyeBombing](#team-project)   
-* Introducing *typography* 
-* Project: [OneTweet](#onetweet)
+* Project: [OneTweet](#project)
+
+<!-- * Introducing *typography* -->
 
 ### Your [homework](#homework) and [blog](#blog)!
 
@@ -14,7 +15,7 @@
 
 ### What is peer learning?
 
-It's a form of **cooperative** learning, that is: learning from *each other, together*.
+Learning from *each other, together*. It's a form of **cooperative** learning. 
 
 In peer learning, everybody plays both the **teacher** and the **learner**.
 
@@ -25,6 +26,16 @@ In peer learning, everybody plays both the **teacher** and the **learner**.
 By teaching to your peers, you reinforce your own learning. [It works](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects)!
 
 Also, you get to practice and build confidence in your **communication skills**.
+
+### This is not a formal presentation
+
+You're not being tested. 
+
+You're not here to please me. 
+
+You're here to teach to your peers and learn from them. 
+
+#### We're here to become *co-learners*.
 
 At the end of your mini-lectures we'll give each other **feedback**. *Honest* feedback can hurt but it's through that (and practice) that we improve.
 
@@ -87,6 +98,31 @@ Beware of *freeloaders*.
 	
 #### What can be **improved**?
 
+### A few tips and tricks
+
+* **FACT** Generally, people remember **2-3 ideas** from a talk. Which ones you want them to remember? 
+
+* **PLANNING** Don't try to explain everything. Pick out 2-3 **key ideas** from your topic and explain them in the simplest way you can. 
+
+* **INTRO** Explain the *background* of your talk and give a quick *summary* of what you're going to talk about. People will pay more attention if they have a sense of what's coming next
+
+* **SLIDES** Slides are not a necessity. 
+
+	Ask yourself: is a slideshow the most effective way to communicate this? **How else** could I get this point across?
+	
+	For instance, asking your audience a few *open* questions, getting them to play a game, break them out into small groups to discuss a scenario..
+
+* **SLIDES AGAIN**	 If you *must* use slides, then:
+	
+	* One **point** per slide.
+	
+	* Don't cram long texts in your slides. Keep them down to a few *keywords* and one image or two..
+
+* **DELIVERY** Don't read out slides. It's distracting both for you and for your audience.
+
+* **TOP TIP** Use **examples** and **stories** from your experience. They will make your points more **relatable**: more interesting to listen to and easier to learn.
+
+
 # Team project
 
 ### EyeBombing tutorials
@@ -111,8 +147,17 @@ All the project material is [here](../../projects/eye-bombing).
 	You may want to [create an *organisation*](https://github.com/organizations/new) (a GitHub group) for that. 
 
 
+<!--# Typography 
 
+Quiz: what's wrong with these pictures? eg kerning, line-height, too many fonts, wrong messages..-->
 
+# Project
+
+### OneTweet
+
+This project is about about **typography** and creating *meaning with text*.
+
+All the project material is [here](../../projects/one-tweet).
 
 # Homework
 
@@ -122,11 +167,18 @@ All the project material is [here](../../projects/eye-bombing).
 
 2. Add the link to your presentation (and any other relevant material) to the `Teams` Google document I emailed you.
 
-- [ ] Choose a Photoshop trick to practice and teach next week
+
+
+<!--- 
+[ ] Choose a Photoshop trick to practice and teach next week
+
+or rather, a Typography topic
+
+-->
 
 ### Project 
 
-Work on *OneTweet*:
+Work on *OneTweet*.
 
 <!--* Pick one idea to finalise.
 * Continue coding: push your experiments to the team GitHub repo.
@@ -136,7 +188,7 @@ Work on *OneTweet*:
 
 Pair up with another team and **give each other feedback** on your peer learning mini-lectures. 
 
-Use the questions above to give / get feedback on your [presentations' content](#presentation-content) and [delivery](#delivery).
+Use the feedback questions above to give / get feedback on your [presentations' content](#presentation-content) and [delivery](#delivery).
 
 Then write down a *summary* of the feedback you received and a *list of action points* in response to the question: 
 
