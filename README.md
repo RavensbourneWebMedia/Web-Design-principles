@@ -20,7 +20,7 @@ In particular, you will:
 When | In class | Homework | Blog 
 ---- | -------- | -------- | ----
 [Wednesday<br>30.09](sessions/01)| <ul><li>Welcome <li>*Ways of seeing* <li>Team project: [**EyeBombing**](#eyebombing) <li>Workshop: GitHub and MarkDown | <ul><li>Choose a visual perception principle to research and teach next week <li>Work on *EyeBombing* | *EyeBombing*
-[**Friday<br>09.10**](sessions/02)| <ul><li>Peer learning: teams mini-lectures on visual perception principles <li>Tutorials on *EyeBombing* <li> Introducing *typography* <li>Project: [**OneTweet**](#onetweet) | <ul><li>Choose a Photoshop trick to practice and teach next week <li>Work on *OneTweet* | *OneTweet*
+[**Friday<br>09.10**](sessions/02)| <ul><li>Peer learning: teams mini-lectures on visual perception principles <li>Tutorials on *EyeBombing* <li>Project: [**OneTweet**](#onetweet) | <ul><li>Choose a Photoshop trick to practice and teach next week <li>Work on *OneTweet* | *OneTweet*
 Wednesday<br>14.10| <ul><li>Peer-learning: Photoshop tricks  <li>Tutorials on *OneTweet* <li>*Symbols and brands* <li>Team project: [**The Union Hack**](#the-union-hack)  | <ul><li>Video tutorial *or* peer learning research (Illustrator trick) <li>Work on *The Union Hack* | *The Union Hack*
 Wednesday<br>21.10| <ul><li>Peer learning: Illustrator tricks <li>Tutorials on *The Union Hack* <li>Workshop: how to present your work | Prepare formative (tweak your work) | TBA
 Wednesday<br>28.10| **Formative presentations** with guest lecturer |  | Reflection blog
