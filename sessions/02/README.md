@@ -100,27 +100,41 @@ Beware of *freeloaders*.
 
 ### A few tips and tricks
 
-* **FACT** Generally, people remember **2-3 ideas** from a talk. Which ones you want them to remember? 
+#### **FACT** 
 
-* **PLANNING** Don't try to explain everything. Pick out 2-3 **key ideas** from your topic and explain them in the simplest way you can. 
+Generally, people remember **2-3 ideas** from a talk. Which ones you want them to remember? 
 
-* **INTRO** Explain the *background* of your talk and give a quick *summary* of what you're going to talk about. People will pay more attention if they have a sense of what's coming next
+#### **PLANNING** 
 
-* **SLIDES** Slides are not a necessity. 
+Don't try to explain everything. Pick out 2-3 **key ideas** from your topic and explain them in the simplest way you can. 
 
-	Ask yourself: is a slideshow the most effective way to communicate this? **How else** could I get this point across?
+#### **INTRO** 
+
+Explain the *background* of your talk and give a quick *summary* of what you're going to talk about. People will pay more attention if they have a sense of what's coming next
+
+#### **SLIDES** are not a necessity. 
+
+Ask yourself: is a slideshow the most effective way to communicate this? **How else** could I get this point across?
 	
-	For instance, asking your audience a few *open* questions, getting them to play a game, break them out into small groups to discuss a scenario..
+For instance, asking your audience a few *open* questions, getting them to play a game, break them out into small groups to discuss a scenario..
 
-* **SLIDES AGAIN**	 If you *must* use slides, then:
+#### **SLIDES AGAIN**	 
+
+If you *must* use slides, then:
 	
-	* One **point** per slide.
+* One **point** per slide.
 	
-	* Don't cram long texts in your slides. Keep them down to a few *keywords* and one image or two..
+* Don't cram long texts in your slides. Keep them down to a few *keywords* and one image or two..
 
-* **DELIVERY** Don't read out slides. It's distracting both for you and for your audience.
+#### **DELIVERY** 
 
-* **TOP TIP** Use **examples** and **stories** from your experience. They will make your points more **relatable**: more interesting to listen to and easier to learn.
+Don't read out slides. 
+
+It's distracting both for you and for your audience.
+
+#### **TOP TIP** 
+
+Use **examples** and **stories** from your experience. They will make your points more **relatable**: more interesting to listen to and easier to learn.
 
 
 # Team project
