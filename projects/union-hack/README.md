@@ -10,7 +10,7 @@ First you will *mash up* existing flags, and then *make your own* flag.
 *  Watch [this TED talk](http://www.ted.com/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed) about the rules of good flag design (and some funny examples of bad flag design).
   
 	[![](assets/roman-mars-ted.png)](http://www.ted.com/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed)
-* **MASH UP** 
+* **MASH UP A FLAG** 
 
 	Pick an existing flag and mash it up following these criteria:
 	
@@ -19,8 +19,8 @@ First you will *mash up* existing flags, and then *make your own* flag.
 	* Change one or more shapes
 	* Any of the above in combination 
 	
-	Producing minimum **4 variations** of your flag mash-up.
-* **MAKE YOUR OWN**
+	Produce minimum **4 variations** of your flag mash-up.
+* **MAKE YOUR OWN FLAG**
 
 	Pick a place (real or imaginary) and design one or more flags for it, following these criteria (the *five basic principles of flag design* by [Ted Kaye](http://portlandflag.org/good-flag-bad-flag/), cited in the TED talk above):	
 	
