@@ -84,7 +84,7 @@ We're so used to think of text as something that goes horizontal, from left to r
 
 [![](http://payload158.cargocollective.com/1/0/128/5461533/andyrementer-7.jpg)](http://butdoesitfloat.com/Not-the-old-not-the-new-but-the-necessary)
 
-[![](http://az-project.org/wp-content/uploads/2012/07/Lubalin_3-520x521.jpg)](http://az-project.org/en/designers/herb-lubalin-2/)
+<!--[![](http://az-project.org/wp-content/uploads/2012/07/Lubalin_3-520x521.jpg)](http://az-project.org/en/designers/herb-lubalin-2/)-->
 
 [![](http://41.media.tumblr.com/6f9f4973047480aca66f2f9729915329/tumblr_myy1ajkfRq1qc6htko1_1280.jpg)](http://marindsgn.tumblr.com/post/72348566308/jazz-poster-wwwquimmarincom)
 
