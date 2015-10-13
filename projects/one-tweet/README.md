@@ -151,7 +151,7 @@ Photography courses on Lynda.com, which you have free access to as a Ravensbourn
 --------	| ------ | ------
 Made of 	| *Paths* <br> ![](assets/vector.png)  | *Pixels* <br> ![](assets/raster.png)
 File formats | `.pdf` `.svg` `.eps`  | `.gif` `.jpg` `.png`
-Made with | Photoshop `.psd` | Illustrator `.ai` 
+Made with | Illustrator `.ai`  | Photoshop `.psd` 
 Better for | Typography and illustration | Photography
 Advantages | Can be *scaled* to be very large without losing quality |  	
 
