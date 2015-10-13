@@ -210,23 +210,9 @@ Topics:
 
 For everyone: check out [Thinking with Type](http://www.thinkingwithtype.com/)! 
 
-
-
-
-<!--- 
-[ ] Choose a Photoshop trick to practice and teach next week
-
-or rather, a Typography topic
-
--->
-
 ### Project 
 
 Work on *OneTweet*.
-
-<!--* Pick one idea to finalise.
-* Continue coding: push your experiments to the team GitHub repo.
-* Document your research on your team GitHub repo wiki-->
 
 ### Blog 
 
