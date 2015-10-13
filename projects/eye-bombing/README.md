@@ -29,8 +29,6 @@ When reviewing your images, we will look for:
 * **Framing**, the point(s) of view you chose for your subject to highlight its *faceyness*. Framing an image has as much to do with what you include as what you exclude. 
 * **Interpretation**, how your subject is cropped (or otherwise edited) to highlight its *faceyness*.
 
-
-
 ### Inspirations
 
 * [Faces in places](http://facesinplaces.blogspot.co.uk) is a photographic collection of **faces found in everyday places**, curated by [Jody Smith](https://twitter.com/ToastMaster).
@@ -44,8 +42,3 @@ Photography courses on Lynda.com, which you have free access to as a Ravensbourn
 * You can start from [this short video](http://www.lynda.com/Photoshop-tutorials/Seeing-compositing-possibilities/374612/411110-4.html) about seeing the **possibilities** for how a scene or subject can be framed (*framing* and *composition* can be used as synonyms for the sake of our project).
 * Follow this [foundation course on composition](http://www.lynda.com/Photography-Photo-Assignments-tutorials/Foundations-of-Photography-Composition/80299-2.html).
 * Try this [challenge](http://www.lynda.com/course-tutorials/5-Day-Photo-Challenge-Composition/383423-2.html).
-
-
-<!--
-# Matteo's TODO
--->

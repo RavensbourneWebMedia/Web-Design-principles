@@ -190,10 +190,10 @@ We'll do this again in *teams*, but not the same people you worked with this wee
 Your team **mini-lesson** should be **~15 minutes** and you may include:
 
 * **2-3 key ideas**
-* Links, images or videos of projects / products / things referenced in your research
-* Other relevant things you've read, heard or seen
 * **Examples** and demonstrations
 * Personal **experiences**
+* Other relevant things you've read, heard or seen
+
 
 Prepare **1-2 open questions to ask the class**. After your mini-lesson, we will have a short group discussion around these questions.
 
