@@ -6,6 +6,8 @@
 * Tutorials on [OneTweet](#project)   
 * Team project: [The Union Hack](#team-project)
 
+### Your [homework](#homework) and [blog](#blog)!
+
 
 # Peer learning
 
@@ -40,8 +42,40 @@ Have a quick convo about feedback from last week (they should have blogged about
 * How to choose the right font
 
 
-### Your [homework](#homework) and [blog](#blog)!
+# Project
 
-*Symbols and brands*
+### OneTweet tutorials
 
-https://learningresources.rave.ac.uk/client/en_GB/studyzone/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:14723/one?qu=this+means+this+this+means+that&te=ILS
+This project is about about **typography** and creating *meaning with text*.
+
+All the project material is [here](../../projects/one-tweet).
+
+This is *not a team project* but we'll see people in groups of 2-3, possibly grouping people who are working on the same tweet.
+
+### 8 groups
+
+### 15 minutes per group 
+
+That is, ~5 minutes per person.
+
+1. Let's see your **posters**.
+* Which tweet did you choose and why?
+* What variations did you produce? 
+* Which visual perception principles have you explored (either alone or in combos)?
+* What fonts and colours did you pick?
+* What ideas could you *steal* (ehm, `fork`) from your peers?
+
+
+# Homework
+
+### Peer learning research
+
+#### Symbols and brands
+
+[This means this, this means that: a user's guide to semiotics](https://learningresources.rave.ac.uk/client/en_GB/studyzone/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:14723/one?qu=this+means+this+this+means+that&te=ILS)
+
+### Project 
+
+Work on *The Union Hack*.
+
+### Blog 
