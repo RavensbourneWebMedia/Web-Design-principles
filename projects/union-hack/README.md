@@ -23,7 +23,8 @@ First you will *mash up* existing flags, and then *make your own* flag.
 * **MAKE YOUR OWN**
 
 	Pick a place (real or imaginary) and design one or more flags for it, following these criteria (the *five basic principles of flag design* by [Ted Kaye](http://portlandflag.org/good-flag-bad-flag/), cited in the TED talk above):	
-	1. **Keep it simple**. The flag should be so simple that a child can draw it from memory.
+	
+	* **Keep it simple**. The flag should be so simple that a child can draw it from memory.
 	
 	* **Use meaningful symbolism**. The flag’s images, colours, or patterns should relate to what it symbolises.
 	
@@ -32,7 +33,10 @@ First you will *mash up* existing flags, and then *make your own* flag.
 	* **No lettering or seals**. Never use writing on any kind or an organisation’s seal.
 	
 	* **Be distinctive or be related**. Avoid duplicating other flags, but use similarities to show connections.
-* Create a *GitHub repository* for your team project and **submit** all your work there. 	
+* Create a *GitHub repository* for your team project and **submit** all your work there. 
+
+<!-- -->	
+
 ### Inspirations
 
 * Mark Napier's [**net.flag**](http://marknapier.com/netflag) is a participatory piece of art, in which visitors  mash up national flags to create a *flag for the Internet*. 
