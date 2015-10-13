@@ -6,8 +6,6 @@
 * Tutorials on [EyeBombing](#team-project)   
 * Project: [OneTweet](#project)
 
-<!-- * Introducing *typography* -->
-
 ### Your [homework](#homework) and [blog](#blog)!
 
 
@@ -185,7 +183,7 @@ All the project material is [here](../../projects/one-tweet).
 
 #### Typography
 
-On the `Teams` Google document I emailed you, there's a new table with topics around **typography** for you to learn and teach next week.
+On the Google document I emailed you (you can also find it on Slack), there's a new table with topics around **typography** for you to learn and teach next week.
 
 We'll do this again in *teams*, but not the same people you worked with this week.
 
