@@ -22,7 +22,7 @@ First you will *mash up* existing flags, and then *make your own* flag.
 	Produce minimum **4 variations** of your flag mash-up.
 * **MAKE YOUR OWN FLAG**
 
-	Pick a place (real or imaginary) and design one or more flags for it, following these criteria (the *five basic principles of flag design* by [Ted Kaye](http://portlandflag.org/good-flag-bad-flag/), cited in the TED talk above):	
+	Pick a place, real or imaginary, and design one or more flags for it, following these criteria (the *five basic principles of flag design* by [Ted Kaye](http://portlandflag.org/good-flag-bad-flag/), cited in the TED talk above):	
 	
 	* **Keep it simple**. The flag should be so simple that a child can draw it from memory.
 	
