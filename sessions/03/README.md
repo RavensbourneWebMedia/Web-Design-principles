@@ -64,7 +64,7 @@ That is, ~5 minutes per person.
 * Which visual perception principles have you explored (either alone or in combos)?
 * What fonts and colours did you pick?
 * What ideas could you *steal* (ehm, `fork`) from your peers?
-
+ 
 
 # Homework
 
@@ -82,7 +82,7 @@ On the Google document I emailed you (you can also find it on Slack), there's a 
 
 We'll do this again in *teams*, but not the same people you worked with this week.
 
-Your team **mini-lesson** should be **~15 minutes** and you may include:
+Your team **mini-lesson** should be **~10 minutes** and you may include:
 
 * **2-3 key ideas**
 * **Examples** and demonstrations
@@ -91,19 +91,44 @@ Your team **mini-lesson** should be **~15 minutes** and you may include:
 
 Prepare **1-2 open questions to ask the class**. After your mini-lesson, we will have a short group discussion around these questions.
 
-Topics: TBA
+Topics: 
 
-<!--1. How do people **read**? 
-* **Typography vocabulary**: anatomy of a letter  
-* **Fonts**: serif, sans-serif etc, weights and styles (also check out the [type shape game](http://shape.method.ac/)) 
-* The personality of fonts: **expressive typography**
-* Horizontal and vertical **motion**: alignments, kerning, tracking and leading (also check out the [kerning game](http://type.method.ac/))
-* **Proportion**: typographic scales
-* [Web design 95% typography](https://ia.net/know-how/the-web-is-all-about-typography-period)
-* How to **choose the right font** (among other things, check out [WhatFont](http://chengyinliu.com/whatfont.html))
+1. **Symbols** and their cultural meanings, eg: scales → justice, lion → strength/king, apple → health/temptation/tech-company, red → stop/error, floppy disk → save [etc](http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx).
+* **Visual devices** (non-literal communication): simile and metaphor, metonym and synecdoche, irony / sarcasm, lies. Find plenty of *good* and *bad* examples.
+* Designing with **colours**: [how to create your own palette](http://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/), even an [edible one](http://idsgn.org/posts/an-edible-color-palette/)
+* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **colours**:
+	
+	* What does the brand aim to communicate?
+	* How does it do it *through colours*? Be specific, make plenty of examples.
+	* What feelings is the brand trying to trigger? 
+* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **typography**:
+	
+	* What does the brand aim to communicate?
+	* How does it do it *through typography*? Be specific, make plenty of examples.
+	* What feelings is the brand trying to trigger? 
+* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **images&video**:
+	
+	* What does the brand aim to communicate?
+	* How does it do it *through images&video*? Be specific, make plenty of examples.
+	* What feelings is the brand trying to trigger? 
+* **Visual hierarchy** experiment, using websites/apps that your audience is familiar with:
 
+ 	* List the key information points that users are likely seeking.
+	* Assign values (1-5) according to their importance to the average user.
+	* Now, look at the actual design again.
+	* Assign values (1-5) according to the actual visual importance as you see it in the live design.
+	* Does the expected importance match up with the actual designed importance? If not, what could be changed?
 
-[This means this, this means that: a user's guide to semiotics](https://learningresources.rave.ac.uk/client/en_GB/studyzone/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:14723/one?qu=this+means+this+this+means+that&te=ILS)-->
+<!--
+
+**Semiotics 101**: sign, signifier and signified
+
+**Communication**: sender (with intentions), message (through media) and receiver (with interpretations).
+
+* [Teaching to see](https://vimeo.com/45232468): design thinking by Inge Druckrey
+* [Comic Sans is bad](http://designforhackers.com/blog/comic-sans-hate/), or is it?
+
+-->
 
 ### Project 
 
