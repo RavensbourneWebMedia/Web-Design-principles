@@ -64,6 +64,39 @@ That is, ~5 minutes per person.
 * Which visual perception principles have you explored (either alone or in combos)?
 * What fonts and colours did you pick?
 * What ideas could you *steal* (ehm, `fork`) from your peers?
+
+
+# Team project
+
+### The Union Hack 
+
+This **team project** is about about **symbols** and **brands**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
+
+All the project material is [here](../../projects/union-hack).
+
+Today:
+
+1. Form teams.
+* Set up a GitHub repository for your team project.
+
+Between today and next week:
+
+1. Mash up existing flags.
+* Jot down ideas for places (real or imaginary) and the flag(s) you could design for them. 
+* Record your creative process in your blogs.
+
+Next week:
+
+1. We'll review your work in class
+	
+	* What have you made?
+	* How can you improve it?
+* Continue mashing up existing flags and designing new flags.	
+
+Formative presentation (28.10):
+
+1. Present your work as a team, both process and results.
+* Reflect on what you learned from it.* 
  
 
 # Homework
