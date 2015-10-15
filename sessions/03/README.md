@@ -117,14 +117,12 @@ We'll do this again in *teams*, but not the same people you worked with this wee
 
 Your team **mini-lesson** should be **~10 minutes** and you may include:
 
-* **2-3 key ideas**
+* **3 key ideas**
 * **Examples** and demonstrations
 * Personal **experiences**
-* Other relevant things you've read, heard or seen
+* **3 open questions to ask the class**
 
-Prepare **1-2 open questions to ask the class**. After your mini-lesson, we will have a short group discussion around these questions.
-
-Topics: 
+##### Topics: 
 
 1. **Visual symbols** and their cultural meanings, eg: scales → justice, lion → strength/king, apple → health/temptation/tech-company, red → stop/error, floppy disk → save [etc](http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx).  
   
