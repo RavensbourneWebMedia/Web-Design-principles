@@ -68,6 +68,8 @@ That is, ~5 minutes per person.
 
 # Team project
 
+![](../../projects/union-hack/assets/net-flag.gif)
+
 ### The Union Hack 
 
 This **team project** is about about **symbols** and **brands**. By designing flags, you will devise symbols to represent identities and convert ideas into shapes. 
