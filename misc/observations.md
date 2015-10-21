@@ -45,3 +45,7 @@
 > We believe that **peer-to-peer sessions are the most powerful way to facilitate interaction, build networks, and collaborate.** For that reason, the Mozilla Festival de-emphasizes lectures and presentations, and instead encourages dialog and hacking in small groups.
 
 > As a facilitator, you will **frame the session goals, team up small groups, and ensure participants work productively & purposefully together.**
+
+# Session 4
+
+* **Peer learning**: ask people to **print out** questions / exercises. Despite repeated suggestions to make mini-lessons interactive, most people still default to plain PowerPoints and tend to read out slides.
