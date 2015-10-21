@@ -4,7 +4,8 @@
 
 1. [Peer learning](#peer-learning) on **symbols and brands** 
 * Tutorials on [The Union Hack](#team-project)
-* Workshop: how to present your work
+
+<!--* Workshop: how to present your work-->
 
 ### Your [homework](#homework) and [blog](#blog)!
 
