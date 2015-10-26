@@ -74,12 +74,15 @@ All the project material is [here](../../projects/union-hack).
 
 Your post should address these questions (in no particular order):
 
-* How and what did I learn?
-* Did I reach my goals, why or why not?  
-* How did I feel during the process?  
+* **ME**:
+	* How and what did I learn?
+	* What worked and what didn't?
+	* Did I reach my goals, why or why not?  
+	* How did I feel during the process?  
 
-* How did the team perform?
-* What worked and what didn’t?
-* What can we do better next time?
-* Did the team reach the goal?
-* Was there conflict, how do we fix it?
+* My **TEAM**:
+	* How did the team perform?
+	* What worked and what didn't?
+	* What can we do better next time?
+	* Did the team reach the goal?
+	* Was there conflict, how do we fix it?
