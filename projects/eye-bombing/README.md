@@ -33,7 +33,9 @@ When reviewing your images, we will look for:
 
 * [Faces in places](http://facesinplaces.blogspot.co.uk) is a photographic collection of **faces found in everyday places**, curated by [Jody Smith](https://twitter.com/ToastMaster).
 
-* [Ways of Seeing](https://www.youtube.com/watch?v=LnfB-pUm3eI) is a BBC series (and a book) that analyse traditional Western cultural aesthetics and raise questions about hidden **ideologies in visual images**.  
+* [Ways of Seeing](https://www.youtube.com/watch?v=LnfB-pUm3eI) is a BBC series (and a book) that analyse traditional Western cultural aesthetics and raise questions about hidden **ideologies in visual images**.    
+
+* [Rodchenko](https://www.google.co.uk/search?q=rodchenko+photography)
 
 ### Tutorials and tools
 
