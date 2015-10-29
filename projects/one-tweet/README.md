@@ -1,3 +1,18 @@
+<!--
+# Matteo's TODO
+
+NEXT TIME: Play with ideas rather than principles
+What are the **key ideas** that you can distill in your poster? Eg: for @snowden you could use: jail, eagle, typewriter (classified documents), danger.. 
+
+Cultural references: blue screen of death
+
+- [ ] I heart NY
+- Rodchenko
+- Do some variations in black and white only?
+- http://fffff.at/friendflop > scrambles tweets and their authors
+
+-->
+
 # OneTweet
 
 This project is about about **typography** and creating *meaning with text*.
@@ -10,7 +25,7 @@ This project is about about **typography** and creating *meaning with text*.
 	* 3 colours max
 	* Square format: width = height
 	* *Vector* file (see [vector vs raster below](#vector-vs-raster))	
-* Produce several **variations** of your poster (min 5), exploring:
+* Produce several **variations** of your poster (min 5), in which you can explore:
  
 	* Closure
 	* Symmetry
@@ -19,7 +34,8 @@ This project is about about **typography** and creating *meaning with text*.
 	* Proximity
 	* Continuation
 	* Similarity
-	* Past experience   
+	* Past experience 
+	* Any combination of the above  
 * Create a *GitHub repository* for your project and push everything there: source files (`.ai` files), exports (`.pdf` `.png` etc.) as well as sketches, inspirations and thoughts.
 
 #### TIP
@@ -98,7 +114,6 @@ We're so used to think of text as something that goes horizontal, from left to r
 
 [![](http://36.media.tumblr.com/c420fde76b4b3f9458b3299bf3e7cc8f/tumblr_n0q8ujptM71rr0smbo1_r1_1280.jpg)](http://picturingthoughts.com/post/76101119646)
 
-
 ### Vector vs raster
 
 •  | Vector | Raster
@@ -108,9 +123,3 @@ File formats | `.pdf` `.svg` `.eps`  | `.gif` `.jpg` `.png`
 Made with | Illustrator `.ai`  | Photoshop `.psd` 
 Better for | Typography and illustration | Photography
 Advantages | Can be *scaled* to be very large without losing quality |  	
-
-
-
-<!--
-# Matteo's TODO
--->
