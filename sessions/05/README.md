@@ -4,9 +4,9 @@
 
 [Formative assessment](#formative-assessment):
 
-1. [EyeBombing](#EyeBombing) <sup>teams</sup> **10 minutes** / team
-* [OneTweet](#OneTweet) <sup>individual</sup> **5 minutes** / person
-* [The Union Hack](#the-Union-Hack) <sup>teams</sup> **10 minutes** / team
+1. [EyeBombing](#eyebombing) <sup>teams</sup> **10 minutes** / team
+* [OneTweet](#onetweet) <sup>individual</sup> **5 minutes** / person
+* [The Union Hack](#the-union-hack) <sup>teams</sup> **10 minutes** / team
 
 ### Your [homework](#homework) and [blog](#blog)
 
@@ -17,7 +17,7 @@
 
 #### Today
 
-You will present both your team projects ([EyeBombing](#EyeBombing) and [Union Hack](#the-Union-Hack)) and your individual project ([OneTweet](#OneTweet)). 
+You will present both your team projects ([EyeBombing](#eyebombing) and [Union Hack](#the-union-hack)) and your individual project ([OneTweet](#onetweet)). 
 
 This means that you will present **three times** throughout the day.
 
