@@ -25,18 +25,22 @@ This project is about about **typography** and creating *meaning with text*.
 	* 3 colours max
 	* Square format: width = height
 	* *Vector* file (see [vector vs raster below](#vector-vs-raster))	
-* Produce several **variations** of your poster (min 5), in which you can explore:
- 
-	* Closure
-	* Symmetry
-	* Figure/ground relationship
-	* Connectedness 
-	* Proximity
-	* Continuation
-	* Similarity
-	* Past experience 
-	* Any combination of the above  
+* Produce several **variations** of your poster (min 5)
 * Create a *GitHub repository* for your project and push everything there: source files (`.ai` files), exports (`.pdf` `.png` etc.) as well as sketches, inspirations and thoughts.
+
+#### Bonus
+
+In your variations you can explore:
+ 
+* Closure
+* Symmetry
+* Figure/ground relationship
+* Connectedness 
+* Proximity
+* Continuation
+* Similarity
+* Past experience 
+* Any combination of the above  
 
 #### TIP
 
@@ -63,6 +67,9 @@ We're so used to think of text as something that goes horizontal, from left to r
 * [@LeicesterPolice](https://twitter.com/leicesterpolice/status/287937337781002240) `Not a scam: If you’ve committed a burglary in the #Leicester area within the last week - come to our #police station & claim a FREE iPad.`
 
 * [@edballs](https://twitter.com/edballs/status/63623585020915713) `Ed Balls`
+
+* [@usher](https://twitter.com/usher/status/654335781687984129) `Justice or Just Us. Is the system broken? `
+
 
 <!-- 
 
