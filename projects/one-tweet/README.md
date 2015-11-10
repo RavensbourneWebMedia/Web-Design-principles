@@ -25,18 +25,22 @@ This project is about about **typography** and creating *meaning with text*.
 	* 3 colours max
 	* Square format: width = height
 	* *Vector* file (see [vector vs raster below](#vector-vs-raster))	
-* Produce several **variations** of your poster (min 5), in which you can explore:
- 
-	* Closure
-	* Symmetry
-	* Figure/ground relationship
-	* Connectedness 
-	* Proximity
-	* Continuation
-	* Similarity
-	* Past experience 
-	* Any combination of the above  
+* Produce several **variations** of your poster (min 5)
 * Create a *GitHub repository* for your project and push everything there: source files (`.ai` files), exports (`.pdf` `.png` etc.) as well as sketches, inspirations and thoughts.
+
+#### Bonus
+
+In your variations you can explore:
+ 
+* Closure
+* Symmetry
+* Figure/ground relationship
+* Connectedness 
+* Proximity
+* Continuation
+* Similarity
+* Past experience 
+* Any combination of the above  
 
 #### TIP
 
