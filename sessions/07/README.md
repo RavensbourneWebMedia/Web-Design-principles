@@ -4,7 +4,6 @@
 
 1. Debrief: what have done so far?
 * [The good, the bad and the ugly](#the-good-the-bad-and-the-ugly)
-* Visual design quiz
 * Workshop: [gridz](#workshop)! 
 
 ### Your [homework](#homework) and [blog](#blog)
