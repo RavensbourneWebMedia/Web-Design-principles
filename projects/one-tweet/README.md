@@ -68,6 +68,9 @@ We're so used to think of text as something that goes horizontal, from left to r
 
 * [@edballs](https://twitter.com/edballs/status/63623585020915713) `Ed Balls`
 
+* [@usher](https://twitter.com/usher/status/654335781687984129) `Justice or Just Us. Is the system broken? `
+
+
 <!-- 
 
 * [@]() `` 
