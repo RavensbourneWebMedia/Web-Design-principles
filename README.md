@@ -25,7 +25,7 @@ When | In class | Homework | Blog
 [Wednesday<br>21.10](sessions/04)| <ul><li>Peer learning: *symbols and brands* <li>Tutorials on *The Union Hack* | Prepare formative (tweak your work) | Peer learning
 [Wednesday<br>28.10](sessions/05)| **Formative assessment** with special guest |  | Reflection blog
 Week 6<br>Mozfest|
-Wednesday<br>11.11| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual theory powers your design practice <li>Visual design quiz <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
+[Wednesday<br>11.11](sessions/07)| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual theory powers your design practice <li>Visual design quiz <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
 Wednesday<br>18.11| <ul><li>Workshop: HTML + CSS, Responsive Web Design <li>Tutorials on *Code in your plate* |  <ul><li>Peer learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
 Wednesday<br>25.11| <ul><li>Peer learning: CSS tricks <li>Tutorials on *Code in your plate* <li> Summative prep | Prepare summative (tweak your work) | *Code in your plate*
 Wednesday<br>02.12| **Summative assessment**
