@@ -39,6 +39,7 @@ Interesting patterns that we observed in your projects:
 	* [Typecast](http://typecast.com/)
 	* [Typewolf](https://www.typewolf.com/)
 	* [Fontstand](https://fontstand.com/)
+	* [WhatFont tool](http://chengyinliu.com/whatfont.html)
 
 * Vertical lettering: don’t do that, it’s hard to read.
 
