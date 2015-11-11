@@ -65,15 +65,25 @@ Touching on **branding** elements:
   
 	Example: Joe's tour of the Maldives flag around the globe
 	
-* Shapes
+	![](https://raw.githubusercontent.com/RajeevG96/TheUnionHack/master/Joe's%20Flags/Maldives-4.png)
+	
+* **Shapes**: make them simple, so that a kid could draw them.
 
-* Symbols	
+	![](assets/drawing-logos-from-memory.png)
+	
+<!--* Symbols	
 
-* **Colours**   
+* **Colours**  --> 
 
 * **Naming**  
   
-	Jatar, Floridabwe, Portniger, New Lucia
+	Jatar, Floridabwe, Portniger, New Lucia :)
+	
+	Make sure they have no embarrassing meanings in other languages!
+	
+	Use [alliteration](http://robdkelly.com/blog/marketing/alliteration-examples/).
+	
+	Test their **memorability**.
 
 ### General observations
 
@@ -163,3 +173,8 @@ Grids offer a guide to the placement of information and help generate visual hie
 #### **Efficiency** 
 
 Grids allow designers to quickly add elements to a layout because many layout decisions are addressed while building the grid structure.
+
+
+# Homework
+
+### Blog 
