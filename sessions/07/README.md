@@ -194,3 +194,15 @@ Write the **recipe** for your favourite dish in *MarkDown* (`.md` file).
 **Push** your `recipe.md` to a new repository on your GitHub.
 
 ### Blog 
+
+Read and blog about [The Web's Grain](http://frankchimero.com/writing/the-webs-grain/).
+
+When dealing with a *new* medium, we tend to use *old* metaphors in order to make sense of it. Cars were initially thought of as *horseless carriages*. The first photographs tried to replicate paintings.
+
+Likewise, things on the Web were initially called *pages* (as if they were flippable sheets of printed paper), organised into *sites* etc.
+
+What makes Web things **different** from other media?
+
+How can we use the unique properties of the Web medium to our advantage (for instance, to make a **recipe** that doesn't look just like a printed page)?
+
+![](http://frankchimero.com/writing/the-webs-grain/seabig.jpg)
