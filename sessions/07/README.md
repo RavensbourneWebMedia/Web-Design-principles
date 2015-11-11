@@ -177,4 +177,20 @@ Grids allow designers to quickly add elements to a layout because many layout de
 
 # Homework
 
+### There's code in your plate
+
+Write the **recipe** for your favourite dish in *MarkDown* (`.md` file).
+
+* Decide what **information** to include, so that someone else can prepare the dish you chose.
+
+* Make thoughtful decisions about how to **structure** your recipe. 
+
+	For instance, what structure is appropriate for the ingredients *list*? And which is appropriate for the preparation steps *list*? Don't just use paragraphs everywhere.. 
+
+	[![](assets/md-cheatsheet.png)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* Use **images** to enhance your recipe, but not to be the only carrier of important information. For example: use images to visualise something that you've already explained through text.
+
+**Push** your `recipe.md` to a new repository on your GitHub.
+
 ### Blog 
