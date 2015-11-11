@@ -71,9 +71,15 @@ Touching on **branding** elements:
 
 	![](assets/drawing-logos-from-memory.png)
 	
-<!--* Symbols	
+<!--* Symbols  --> 
 
-* **Colours**  --> 
+* **Colours**
+
+	Your composition should work in black/white only.  
+  
+  	Which of the following don't quite work in b/w?
+	
+	![](assets/logos-bw.jpg)
 
 * **Naming**  
   
