@@ -180,6 +180,12 @@ Grids offer a guide to the placement of information and help generate visual hie
 
 Grids allow designers to quickly add elements to a layout because many layout decisions are addressed while building the grid structure.
 
+### Useful tools when designing grid systems
+
+* [Gridpak](http://gridpak.com/)
+* [GridLover](http://www.gridlover.net/)
+* [ ] [jQuery grid plugins from UnHeap](http://www.unheap.com/?s=grid)
+* [ ] [MediaQuery bookmarklet](http://seesparkbox.com/foundry/media_query_bookmarklet)
 
 # Homework
 
