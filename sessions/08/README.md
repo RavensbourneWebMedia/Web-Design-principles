@@ -57,3 +57,40 @@ Learning a coding language is like **learning a new language**.
 **Today** you're going to learn **2 new languages**.
 
 
+# Meet HTML
+
+### `HTML` = How To Make Lunch [ true / false ]
+
+> A **markup language** is a modern system for **annotating** a document in a way that is syntactically distinguishable from the text. 
+
+> The idea and terminology evolved from the *marking up* of paper manuscripts: the revision instructions by editors, traditionally written with a blue pencil on authors' manuscripts.
+
+> From [Wikipedia](http://en.wikipedia.org/wiki/Markup_language)
+
+![](assets/printer-markup-signs.png)
+
+All your **digital texts** are marked up, whether you see the **markup** or not. That is, they contain both content and meta-content.
+
+**HTML** is one of many markup languages, the one used to mark up documents (aka *hypertexts*) on the WWW. 
+
+### `<p> Hello </p>`
+
+### `<p id="message"> Hello </p>`
+
+Wanna learn all the HTML tags? [html5Doctor has a good HTML dictionary](http://html5doctor.com/element-index/).
+
+
+
+<!--Writing HTML can be quite cumbersome ..
+
+	<ul>
+		<li>All this fuss for a bullet point</li>
+	</ul>	
+
+.. so a guy called John Gruber came up with [**MarkDown**](http://daringfireball.net/projects/markdown/) (an open-source project) to let people focus on writing, and not worry about the HTML meta-content.-->
+
+
+
+
+
+
