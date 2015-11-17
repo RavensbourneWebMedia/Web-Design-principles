@@ -94,3 +94,25 @@ Wanna learn all the HTML tags? [html5Doctor has a good HTML dictionary](http://h
 
 
 
+# Homework
+
+### Peer-learning: **CSS tricks**!
+
+On the Google document I emailed you (you can also find it on Slack), there's a new table called **CSS tricks** for you to learn and teach next week.
+
+Your team **mini-lesson** should be **~15 minutes** and include:
+
+* One or more **remixable demos** of your trick on [Thimble](https://thimble.mozilla.org/)
+* A quick **explanation** of your trick, preferably as an HTML5 presentation (you can use [slides.com](https://slides.com) for that)
+* A **quiz** for your audience (you can use [Kahoot](https://getkahoot.com/) for that)
+
+##### Topics: 
+
+
+
+### Blog
+
+Continue working on [Code in your plate](../../projects/code-in-your-plate) and blog about it:
+
+* Write about your **design process**. What inspires you, what do you want to achieve?
+* Write about your **coding process**. How are you translating your design ideas into code? What and how are you learning?
