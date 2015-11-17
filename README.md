@@ -58,6 +58,7 @@ This project introduces you to **coding** as a process of *translation*: from id
 
 You will get familiar with 2 of the 3 languages of the Web: **HTML** and **CSS** (JavaScript next term).
 
+All the project material is [here](projects/code-in-your-plate).
 
 
 # Learning goals
