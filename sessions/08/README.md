@@ -4,7 +4,7 @@
 
 1. [What is *code*?](#what-is-code) 
 * [Meet HTML](#meet-html)
-* There's HTML in your plate
+* [There's HTML in your plate](#workshop-html)
 * Meet CSS
 * There's CSS in your plate 
 
@@ -82,14 +82,10 @@ All your **digital texts** are marked up, whether you see the **markup** or not.
 Wanna learn all the HTML tags? [html5Doctor has a good HTML dictionary](http://html5doctor.com/element-index/).
 
 
+# Your turn
 
-<!--Writing HTML can be quite cumbersome ..
+# Your turn
 
-	<ul>
-		<li>All this fuss for a bullet point</li>
-	</ul>	
-
-.. so a guy called John Gruber came up with [**MarkDown**](http://daringfireball.net/projects/markdown/) (an open-source project) to let people focus on writing, and not worry about the HTML meta-content.-->
 
 
 
