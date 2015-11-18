@@ -54,6 +54,8 @@ Learning a coding language is like **learning a new language**.
 
 #### **Observing** how the computer responds to your inputs and adapting them until it works
 
+#### Like natural languages, there's no *right* or *wrong* way to do it
+
 **Today** you're going to learn **2 new languages**.
 
 
