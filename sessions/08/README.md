@@ -2,11 +2,11 @@
 
 ### Today, Wednesday 18th November 2015
 
-1. [What is *code*?](#what-is-code) 
-* [Meet HTML](#meet-html)
-* [There's HTML in your plate](#workshop-html)
-* Meet CSS
-* There's CSS in your plate 
+1. [What is **code**?](#what-is-code) 
+* [Meet **HTML**](#meet-html)
+* Workshop: [HTML in your plate](#your-turn)
+* [Meet **CSS**](#meet-css)
+* Workshop: [CSS in your plate](#your-turn-1) 
 
 
 <!-- 
@@ -83,6 +83,42 @@ Wanna learn all the HTML tags? [html5Doctor has a good HTML dictionary](http://h
 
 
 # Your turn
+
+We're going to use [Thimble](https://thimble.mozilla.org/), an amazing online open-source code editor, to write our favourite recipe in HTML.
+
+1. You should have written your **recipe** as a **MD** document and published it to **GitHub**. Go find it and then click on the `Raw` button. 
+
+	![](assets/raw.png)
+* **Copy** your recipe's MD.
+* Go to [dillinger.io](http://dillinger.io/) and paste your recipe's MD into it.
+* Export it as HTML
+
+	![](assets/dillinger.jpg) 
+* Go to [thimble.mozilla.org](https://thimble.mozilla.org/) and sign up.
+* Start a project from scratch.
+* Paste your recipe's HTML between `<body>` and `</body>` (you can get rid of the default `h1` and `p`). 
+* Click on any element in HTML and then <kbd>alt</kbd> + <kbd>k</kbd> to bring up a definition of that element.
+
+Let's **focus on the HTML** (we'll use CSS to style it later). 
+
+#### Checklist
+
+* Does you recipe contain all the **information** necessary for someone else to prepare the dish you chose?
+
+* Is that information **well structured**? Are you using appropriate HTML tags to mark up that information?   
+  
+	For instance, what structure is appropriate for the ingredients *list*? And which is appropriate for the preparation steps *list*? Don't just use `p` everywhere..
+
+* Is your recipe's information **accessible**? Remember, not everybody (both humans and *robots*) can see your recipe.
+
+	For example: use images to visualise something that you've already explained through text, and add `alt="DESCRIBE YOUR IMAGE HERE"` to all your `img` elements. That way, they'll be more search-engine-friendly, and accessible to people who don't consume your page visually.   
+
+Learn more about how to use Thimble in [this tutorial](https://d157rqmxrxj6ey.cloudfront.net/baddeo/12738).
+
+
+# Meet CSS
+
+
 
 # Your turn
 
