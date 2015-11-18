@@ -225,9 +225,25 @@ Your team **mini-lesson** should be **~15 minutes** and include:
 * A quick **explanation** of your trick, preferably as an HTML5 presentation (you can use [slides.com](https://slides.com) for that)
 * A **quiz** for your audience (you can use [Kahoot](https://getkahoot.com/) for that)
 
-##### Topics: 
+##### Tricks: 
 
+1. absolute inside relative
+* centring images using negative margins
+* overriding rules with specificity
+* transitions (and animations)
+* display inline and block, inline-block
+* centring: display block, margin auto etc
+* transparency: hex and rgba 
+* hover, active, focus
+* border and border-radius (styling buttons)
+* class vs id
 
+<!--
+* animation
+* styling form elements
+* flex-box
+* float?
+-->
 
 ### Blog
 
