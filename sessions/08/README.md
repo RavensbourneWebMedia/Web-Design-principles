@@ -144,9 +144,9 @@ With CSS you can (hopefully) make your Web content clearer, easier to read and m
 * Understand how CSS rules apply to HTML.
 * Play around with CSS properties! **Inspect** > **copy** > **hack**
 
-### `selector { property: value; }
+### `selector { property: value; }`
 
-##### `p { color: blue; }
+##### `p { color: blue; }`
 
 To understand **CSS selector**, let's play the [CSS Diner](http://flukeout.github.io) game!
 
@@ -225,26 +225,52 @@ Your team **mini-lesson** should be **~15 minutes** and include:
 
 * One or more **remixable demos** of your trick on [Thimble](https://thimble.mozilla.org/)
 * A quick **explanation** of your trick, preferably as an HTML5 presentation (you can use [slides.com](https://slides.com) for that)
+* BONUS: **live examples** of your trick in action in other websites
 * A **quiz** for your audience (you can use [Kahoot](https://getkahoot.com/) for that)
 
 ##### Tricks: 
 
-1. absolute inside relative
-* centring images using negative margins
-* overriding rules with specificity
-* transitions (and animations)
-* display inline and block, inline-block
-* centring: display block, margin auto etc
-* transparency: hex and rgba 
-* hover, active, focus
-* border and border-radius (styling buttons)
-* class vs id
+1. How to use `color` and `background-color` to enhance the behaviour of elements in different states: `hover`, `focus`, `active` and `visited`.
+
+	Include transparency, aka `rgba`.  
+* How to style elements to look and feel like *clickable things* (usually referred to as *buttons*), including but not limited to CSS properties like `border` and `border-radius`.
+* How to use `position: fixed;` to make elements stick to the page (not scroll away). 
+* How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel). 
+	
+	Example:
+	
+	```html
+	<div class="container">
+		<div class="content">
+		</div>
+	</div>
+	```
+	
+	```css
+	.container {
+		position: relative;
+	}
+	
+	.content {
+		position: absolute;
+		top: 0;
+		left: 20px;
+	}
+	```
+* How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
+* How to use CSS `transition`s.
+* How to use animation libraries like [Animate.css](https://daneden.github.io/animate.css).  
+* How to use vector icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome).  
 
 <!--
 * animation
 * styling form elements
 * flex-box
 * float?
+* class vs id
+* overriding rules with specificity 
+* How to use negative `margin` to centre elements horizontally and / or vertically. 
+* display: inline and block, inline-block
 -->
 
 ### Blog
