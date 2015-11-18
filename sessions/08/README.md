@@ -118,14 +118,99 @@ Learn more about how to use Thimble in [this tutorial](https://d157rqmxrxj6ey.cl
 
 # Meet CSS
 
+### The languages of the Web
+
+Different **languages**, separate [**concerns**](http://en.wikipedia.org/wiki/Separation_of_concerns#HTML.2C_CSS.2C_JavaScript).
+
+Think of a group of people working together, eg to produce a car, a newspaper, a website, to provide education. What are the different *roles* and *concerns* of these people?
+
+#### 1. **HTML** → content and structure  
+
+#### 2. **CSS** → style and design 
+
+#### 3. **JS** → behaviour and logic
+
+!["Chuck & Di Have a Baby" Paper Doll Book 1982 by John Boswell, Patty Brown and Will Elder](assets/chuck-and-di-paperdolls.png)
+
+_BBC homepage > Using the [Web Developer tool](http://chrispederick.com/work/web-developer/), disable CSS to show the separation of concerns in action._
+
+With CSS you can (hopefully) make your Web content clearer, easier to read and more appealing!
+
+### Learning CSS
+
+1. Learn how to write CSS rules.
+* Understand how CSS rules apply to HTML.
+* Play around with CSS properties! **Inspect** > **copy** > **hack**
+
+### `selector { property: value; }
+
+##### `p { color: blue; }
+
+To understand **CSS selector**, let's play the [CSS Diner](http://flukeout.github.io) game!
+
+[![](assets/CSS-diner.png)](http://flukeout.github.io)
+
+### Thinking inside the **box**
+
+Imagine that there is an **invisible box** around every HTML element. 
+
+<!--Use Web Inspector to demonstrate it-->
+
+Your browser likes to put code into boxes, boxes inside boxes inside boxes inside boxes...
+
+Each HTML box has:
+
+* margin
+* border
+* padding
+
+![](assets/box-model.gif)
 
 
 # Your turn
 
+Using CSS, style your HTML recipe. 
 
+This exercise is about making your **texts** easy to scan and easy to read, informative and usable.
 
+Today we're focusing on:
 
+* good **typography**, use this [Web typography checklist](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
+* **colours**, use [this colour contrast and difference checker](http://snook.ca/technical/colour_contrast/colour.html)
 
+Next week we're going to:
+
+* style images
+* introduce grid layouts
+
+### CSS properties you can play around with
+
+#### Text
+
+* `font-family` 
+* `font-size`
+* `font-weight`
+* `font-style`
+* `line-height`
+* `letter-spacing`
+* `word-spacing`
+* `text-align`
+* `text-decoration`
+* `text-transform`
+* `text-indent`
+
+#### Box 
+
+* `margin`
+* `border`
+* `padding`
+* `width`
+* `max-width`
+
+#### Colours
+
+* `color`
+* `background-color`
 
 
 # Homework
