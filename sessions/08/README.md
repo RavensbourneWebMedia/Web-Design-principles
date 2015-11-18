@@ -9,11 +9,11 @@
 * There's CSS in your plate 
 
 
-<!-- -->
+<!-- 
 - [ ] gh-pages?
+-->
 
-
-### Your [homework](#homework) and [blog](#blog)
+#### Your [homework](#homework) and [blog](#blog)
 
 
 # What is **code**?
