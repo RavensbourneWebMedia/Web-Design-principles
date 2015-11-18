@@ -228,7 +228,7 @@ Your team **mini-lesson** should be **~15 minutes** and include:
 * BONUS: **live examples** of your trick in action in other websites
 * A **quiz** for your audience (you can use [Kahoot](https://getkahoot.com/) for that)
 
-##### Tricks: 
+##### Tricks 
 
 1. How to use `color` and `background-color` to enhance the behaviour of elements in different states: `hover`, `focus`, `active` and `visited`.
 
