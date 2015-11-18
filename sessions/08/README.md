@@ -52,14 +52,16 @@ Learning a coding language is like **learning a new language**.
 
 #### **Translating** your ideas into a language your computer understands
 
-#### **Observing** how the computer responds to our commands, and adapting them (aka *feedback loop*)
+#### **Observing** how the computer responds to your inputs and adapting them until it works
 
 **Today** you're going to learn **2 new languages**.
 
 
 # Meet HTML
 
-### `HTML` = How To Make Lunch [ true / false ]
+### `HTML` = How To Make Lunch 
+
+#### true / false ?
 
 > A **markup language** is a modern system for **annotating** a document in a way that is syntactically distinguishable from the text. 
 
@@ -73,9 +75,9 @@ All your **digital texts** are marked up, whether you see the **markup** or not.
 
 **HTML** is one of many markup languages, the one used to mark up documents (aka *hypertexts*) on the WWW. 
 
-### `<p> Hello </p>`
+### `<p>`Hello`</p>`
 
-### `<p id="message"> Hello </p>`
+#### `<p id="message">`Hello`</p>`
 
 Wanna learn all the HTML tags? [html5Doctor has a good HTML dictionary](http://html5doctor.com/element-index/).
 
