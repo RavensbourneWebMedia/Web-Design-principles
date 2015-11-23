@@ -27,8 +27,8 @@ When | In class | Homework | Blog
 Week 6<br>Mozfest|
 [Wednesday<br>11.11](sessions/07)| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual design theory for the win! <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
 [Wednesday<br>18.11](sessions/08)| <ul><li>Workshop: HTML & CSS <li>Tutorials on *Code in your plate* |  <ul><li>Peer learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
-Wednesday<br>25.11| <ul><li>Peer learning: CSS tricks <li>Workshop: Responsive Web Design<li>Tutorials on *Code in your plate* <li> Summative prep | Prepare summative (tweak your work) | *Code in your plate*
-Wednesday<br>02.12| **Summative assessment**
+[Wednesday<br>25.11](sessions/09)| <ul><li>Peer learning: CSS tricks <li>Workshop: Responsive Web Design<li>Tutorials on *Code in your plate* | Prepare summative (tweak your work) | CSS tricks
+[Wednesday<br>02.12](sessions/10)| **Summative assessment**
 
 <!-- <li>Workshop: how to present your work -->
 
