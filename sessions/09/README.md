@@ -2,12 +2,56 @@
 
 ### Today, Wednesday 25th November 2015
 
-1. 
+1. Peer-learning: [CSS tricks](#peer-learning)
 *
 
 
 #### Your [homework](#homework) and [blog](#blog)
 
+
+# Peer learning
+
+### Why peer learning?
+
+Learning from *each other, together*. It's a form of **cooperative** learning. 
+
+In peer learning, everybody plays both the **teacher** and the **learner**.
+
+By teaching to your peers, you reinforce your own learning. [It works](http://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/hattie-ranking-teaching-effects)!
+
+Also, you get to practice and build confidence in your **communication skills**.
+
+### This is not a formal presentation
+
+You're not being tested. 
+
+You're not here to please me. 
+
+You're here to teach to your peers and learn from them. 
+
+You're here to practice what you'll do in your next job.
+
+#### We're here to become *co-learners*.
+
+### 8 teams
+
+### 15 minutes per team
+
+* One or more **remixable demos** of your trick on [Thimble](https://thimble.mozilla.org/)
+* A quick **explanation** of your trick, preferably as an HTML5 presentation (you can use [slides.com](https://slides.com) for that)
+* BONUS: **live examples** of your trick in action in other websites
+* A **quiz** for your audience (you can use [Kahoot](https://getkahoot.com/) for that)
+
+#### Tricks
+
+1. How to use `color` and `background-color` to enhance the behaviour of elements in different states: `hover`, `focus`, `active` and `visited`. Include transparency, aka `rgba`.  
+* How to style elements to look and feel like *clickable things* (usually referred to as *buttons*), including but not limited to CSS properties like `border` and `border-radius`.
+* How to use `position: fixed;` to make elements stick to the page (not scroll away). 
+* How to use `relative` and `absolute` `position`ing to control elements precisely (to the pixel). 
+* How to centre elements horizontally, including but not limited to CSS properties like `display` and `margin: auto`.
+* How to use CSS `transition`s.
+* How to use animation libraries like [Animate.css](https://daneden.github.io/animate.css).  
+* How to use vector icons from [Font Awesome](https://fortawesome.github.io/Font-Awesome).  
 
 
 # Homework
