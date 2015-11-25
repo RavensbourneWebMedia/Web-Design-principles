@@ -1,0 +1,93 @@
+/* MOBILE FIRST */
+
+	/* adjust image sizes */
+	img 
+	{
+		max-width: 100%;
+	}
+
+	/* adjust horizontal paddings */
+	h1, h2, header p, ul, ol p
+	{
+		padding: 0 1rem;
+	}
+
+	ol 
+	{
+		padding: 0;
+	}
+
+	/* lists */
+	ul
+	{
+		list-style-type: none;
+	}
+
+	ol
+	{
+		list-style-type: none;
+	}
+
+	/* using CSS counters, see https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Lists_and_Counters/Using_CSS_counters */
+	ol li
+	{
+		counter-increment: item;
+	}
+
+	ol li p:after 
+	{
+		content: counter(item);
+
+		position: absolute;
+		left: 1rem;
+		font-size: 10rem;
+		opacity: .2;
+	}
+
+/* MEDIA QUERIES */
+
+	/* 
+		we'll make the page look different when it's 640px wide or more 
+		640px = 40rem (rem is the base font-size, 16px.. so 16 * 40 = 640)
+
+		See common device sizes https://www.browserstack.com/responsive
+
+	*/
+
+	@media (min-width:40rem) /* this line is the query */
+	{
+		/* if the query is true, then the following rules are applied.. */
+		
+		body 
+		{
+			max-width: 40rem;
+			margin: 0 auto; /* centre it horizontally */
+		}
+
+		/* adjust horizontal paddings */
+		h1, h2, header p, ul, ol p
+		{
+			padding: 0;
+		}
+
+		ol li p, ol li img
+		{
+			width: 50%;
+			float: left;
+		}
+
+		ol li p
+		{
+			margin-top: 0;
+			padding-right: 1rem;
+			box-sizing: border-box;
+		}
+
+		ol li img
+		{
+			margin-bottom: 2rem;
+		}
+
+		
+		/* ..up to here */
+	}   
