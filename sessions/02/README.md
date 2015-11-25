@@ -216,10 +216,16 @@ Work on *OneTweet*.
 
 ### Blog 
 
-Pair up with another team and **give each other feedback** on your peer learning mini-lessons. 
+Write about *OneTweet*.
+
+Reflect on the concept and document your **creative process**.
+
+You can post pictures of scribbled notes, or jot down notes digitally. It doesn't need to be fleshed out and well written. The main goal here is to record your flow of ideas, not to make it beautiful!
+
+<!-- Pair up with another team and **give each other feedback** on your peer learning mini-lessons. 
 
 Use the feedback questions above to give / get feedback on your [mini-lessons' content](#mini-lesson-content) and [delivery](#delivery).
 
 Then write down a *summary* of the feedback you received and a *list of action points* in response to the question: 
 
-> What can be **improved**?
+> What can be **improved**? -->
