@@ -113,7 +113,7 @@ That is, **HTML**.
 		</li>
 	</ol>
 	```	
-* Fill in text and images.	
+* Fill in texts and images.	
 
 ### Let's style
 
@@ -127,7 +127,7 @@ Download [Normalize](https://necolas.github.io/normalize.css/) and link it in th
 <link rel="stylesheet" href="normalize.css">
 ```
 
-In the example above `normalize.css` is in the **same folder** as `index.html` (see `href`). If you place it somewhere else, or name it something else, you'll need to adjust the value of `href` accordingly.
+In the example above `normalize.css` is in the **same folder** as `index.html`, see `href`. If you place it somewhere else, or name it something else, you'll need to adjust the value of `href` accordingly.
 	
 ### Mobile first
 
@@ -161,7 +161,8 @@ In the example above `normalize.css` is in the **same folder** as `index.html` (
 	```css
 	ul {
 		list-style: none; /* remove the bullet points */
-	}`
+	}
+	```
 * Style `ol`
 
 	```css 
@@ -184,6 +185,8 @@ In the example above `normalize.css` is in the **same folder** as `index.html` (
 	}	
 	```
 
+<!-- -->
+
 ### Responsive
 
 Now that our recipe is good for mobile screens, we can make it look proper on larger screens.
@@ -191,7 +194,7 @@ Now that our recipe is good for mobile screens, we can make it look proper on la
 We'll use a CSS technique to target specific media and screen sizes: **media queries**.
 
 ```css	
-@media (min-width:40rem) /* this line is the query */
+@media (min-width: 40rem) /* this line is the query */
 {
 	/* if the query is true, then the following rules are applied.. */
 	
@@ -205,9 +208,12 @@ We'll use a CSS technique to target specific media and screen sizes: **media que
 }
 ```
 
-We'll make the page look different when it's 640px wide or more. 
+We'll make the page look different when it's **640px wide or more**. 
 
-* 640px = 40rem (rem is the base font-size, 16px.. so 16 * 40 = 640)
+* `640px` = `40rem` 
+* `rem` is the `body` font-size: `16px`
+* 16 * 40 = 640
+* `min-width: 40rem` means `40rem wide or more`
 * See common device sizes [here](https://www.browserstack.com/responsive)
 
 And [here's code for the finished thing](../../projects/code-in-your-plate/responsive-recipe).
