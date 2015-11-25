@@ -63,7 +63,7 @@ We'll make our **recipes responsive**.
 
 You can either use a code editor like [Brackets](http://brackets.io/) or [Sublime](http://www.sublimetext.com/2), or edit your recipe online on [Thimble](https://thimble.mozilla.org/).
 
-### Content first
+### *Content first*
 
 That is, **HTML**.
 
@@ -115,7 +115,7 @@ That is, **HTML**.
 	```	
 * Fill in texts and images.	
 
-### Let's style
+### Let's style it
 
 That is, **CSS**.
 
@@ -129,7 +129,7 @@ Download [Normalize](https://necolas.github.io/normalize.css/) and link it in th
 
 In the example above `normalize.css` is in the **same folder** as `index.html`, see `href`. If you place it somewhere else, or name it something else, you'll need to adjust the value of `href` accordingly.
 	
-### Mobile first
+### *Mobile first*
 
 1. Make / edit `style.css`
 * Link it in the `<head>` of `index.html` 
@@ -187,7 +187,7 @@ In the example above `normalize.css` is in the **same folder** as `index.html`, 
 
 <!-- -->
 
-### Responsive
+### Let's make it *responsive*
 
 Now that our recipe is good for mobile screens, we can make it look proper on larger screens.
 
@@ -216,7 +216,7 @@ We'll make the page look different when it's **640px wide or more**.
 * `min-width: 40rem` means `40rem wide or more`
 * See common device sizes [here](https://www.browserstack.com/responsive)
 
-And [here's code for the finished thing](../../projects/code-in-your-plate/responsive-recipe).
+### And [here's code for the finished thing](../../projects/code-in-your-plate/responsive-recipe)
 
 
 # Tutorials
