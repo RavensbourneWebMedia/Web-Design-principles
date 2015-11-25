@@ -221,9 +221,10 @@ We'll make the page look different when it's **640px wide or more**.
 
 # Tutorials
 
-- Checklist
-- Productivity planner
+1. Go through the :ballot_box_with_check: [**checklist**](../10/#checklist) :ballot_box_with_check: for everything you have to hand in next week.
+* Use the [Productivity Planner](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk) to plan the final sprint!
 
+[![](assets/weekly-planner.png)](https://drive.google.com/open?id=0B0FP625GojKHRlJRZWQ4cjVvSFk)
 
 # Homework
 
