@@ -109,6 +109,8 @@ The only constraint is: make it **max 10 minutes**.
   
 	It makes people pay more attention, and it makes you sound more engaging. Simple :smile:
 
+Many more [**tips here**](https://www.toastmasters.org/About/90th-Anniversary/90-Tips)!
+
 ### Tips for everyone else
 
 1. Be **kind**.   
