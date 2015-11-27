@@ -6,7 +6,6 @@
 * Workshop: [Responsive Web Design](#workshop)
 * [Tutorials](#tutorials) on *Code in your plate*
 
-
 #### Your [homework](#homework) and [blog](#blog)
 
 
@@ -232,7 +231,7 @@ We'll make the page look different when it's **640px wide or more**.
 
 Tweak *all* your work in this unit so that you can **present** it next week during the *summative assessment*. 
 
-See the :ballot_box_with_check: [**checklist**](../10/#checklist) :ballot_box_with_check: for everything you have to hand in!
+Check the :ballot_box_with_check: [**checklist**](../10/#checklist) :ballot_box_with_check: for everything you have to hand in!
 
 ### Blog
 
