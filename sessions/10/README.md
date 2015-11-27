@@ -75,6 +75,12 @@ Add all **links** to your [hand-in package](#hand-in-package).
 
 # Summative presentations
 
+### WTF should I present?
+
+It's **up to you.** You can give us a hopscotch tour of all you've made during this unit, or focus on something in particular that you learned / enjoyed working on / found challenging.
+
+The only constraint is: make it **max 10 minutes**.
+
 ### Tips for the presenter
 
 1. Don't start with an **apology**.   
