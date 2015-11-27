@@ -2,8 +2,8 @@
 
 ### Today, Wednesday 2nd December 2015
 
-1. Summative presentations
-* Final hand-in of project work, presentations and blog posts 
+1. [**Summative presentations**](#summative-presentations)
+* Final [hand-in](#hand-in-package) of [project work](#projects), [presentations](#presentations) and [blog posts](#blog-posts) 
 
 
 # Checklist
@@ -24,7 +24,7 @@ Add your peer-learning, formative and summative presentations **links** to your 
 
 Add all your blog **links** to your [hand-in package](#hand-in-package).
 
-Your blog will have **8 posts**:
+Your blog will have **8 posts** (details in the links below):
 
 1. [Week 1](../01#blog): *EyeBombing*
 * [Week 2](../02#blog): *OneTweet*
@@ -39,7 +39,7 @@ Your blog posts can be published *anywhere* (we recommend [Medium](https://mediu
 
 ### Projects
 
-Make sure all your projects are backed up on **GitHub** (or Google Drive if you have files larger than 50MB).
+Make sure all your projects are backed up on **GitHub** (use Google Drive for files larger than 50MB).
 
 Add all **links** to your [hand-in package](#hand-in-package).
 
@@ -73,7 +73,7 @@ Add all **links** to your [hand-in package](#hand-in-package).
 * Upload your `COURSECODE-Name-Surname.zip` to [*Moodle*](https://learn.rave.ac.uk/moodle/login/index.php) by 23:59 on Wednesday 2nd of December 2015.
 
 
-# Presentations
+# Summative presentations
 
 ### Tips for the presenter
 
@@ -112,10 +112,10 @@ Add all **links** to your [hand-in package](#hand-in-package).
   
 	Include *suggestions*, which the creator of the work can simply take away and use.   
   
-	Also consider how you frame suggestions. Saying `Why didn't make XYZ so and so?` may make the creator of the work feel like you think they're dumb or haven't done their work. Instead, try with `What do you think about making XYZ so and so?`
+	Also consider how you frame suggestions. Saying `Why didn't you make XYZ so and so?` may make the creator of the work feel like you think they're dumb or haven't done their work. Instead, try with `What do you think about making XYZ so and so?`
 * Be **specific** and say **why**.   
   
 	Rather than saying / writing `I don’t like XYZ` be specific about what you have an issue with, and why. Try saying / writing something like `I don’t think tXYZ reflects the user needs, because...`     
 * **Focus on needs, not opinions**.
 	
-	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button because it could be confused with an error message?`, which is much more effective, and also testable.
+	Instead of a personal statement like `I hate the red button!` consider a user-focused question such as `Would users dislike the red button? It could be confused with an error message.`, which is much more effective, and also testable.
