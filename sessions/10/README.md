@@ -41,6 +41,8 @@ Your blog posts can be published *anywhere* (we recommend [Medium](https://mediu
 
 Make sure all your projects are backed up on **GitHub** (use Google Drive for files larger than 50MB).
 
+Export your `.psd` and `.ai` source files as images: `.jpg`, `.png` or `.gif`.
+
 Add all **links** to your [hand-in package](#hand-in-package).
 
 1. **EyeBombing**, include both original and edited images
