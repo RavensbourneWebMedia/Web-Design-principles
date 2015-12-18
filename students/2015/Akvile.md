@@ -93,6 +93,7 @@ Thimble with animations: [https://d157rqmxrxj6ey.cloudfront.net/itsfranhere/1610
 
 ##Blog Posts
 
+
 Below is the link to all of my blog posts for each week of the whole unit through out the first term.
 
 [https://github.com/aiharachan/WEB14103-Akvile-Petrauskaite/tree/master/Blog%20Posts](https://github.com/aiharachan/WEB14103-Akvile-Petrauskaite/tree/master/Blog%20Posts)
