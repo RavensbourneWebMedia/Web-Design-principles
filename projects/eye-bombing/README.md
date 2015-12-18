@@ -20,6 +20,13 @@ We'll look at everyday objects and our surroundings with different eyes and use 
 * **Bonus 1** Add documentation (eg: the same subject from many different angles or at different times), research and inspiration material to the GitHub repository. 
 * **Bonus 2** Tweet your images, tag them with *#RaveFWD* (FWD = Fundamentals of Web Design) and cc [@RaveWebMedia](https://twitter.com/ravewebmedia).
 
+<!--
+
+* TIP: take loads of pictures, of the same subject, from different angles. Turn the camera, lift it up, take it down..
+
+-->
+
+
 ### Criteria
 
 When reviewing your images, we will look for: 

@@ -9,7 +9,9 @@ Cultural references: blue screen of death
 - [ ] I heart NY
 - Rodchenko
 - Do some variations in black and white only?
-- http://fffff.at/friendflop > scrambles tweets and their authors
+- http://fffff.at/friendflop > scrambles tweets and their authors  
+  
+Be fundamentalist about the brief: disqualify posters that use images (iconoclasm)
 
 -->
 
@@ -53,25 +55,35 @@ We're so used to think of text as something that goes horizontal, from left to r
 > A Tweet is an expression of a moment or idea. It can contain text, photos, and videos. Millions of Tweets are shared in real time, every day.
 
 * [@jack](https://twitter.com/jack/status/20) `just setting up my twttr` 
-
-* [@kourtneykardash](https://twitter.com/kourtneykardash/status/11175751424) `Do ants have dicks?` 
-
-* [@kimkardashian](https://twitter.com/kimkardashian/status/16511330274) `EWW Im at lunch,the woman at the table next 2 me is breast feeding her baby w no coverup then puts baby on the table and changes her diaper`
  
 * [@CIA](https://twitter.com/CIA/status/474971393852182528) `We can neither confirm nor deny that this is our first tweet.` 
 
 * [@Snowden](https://twitter.com/Snowden/status/648890134243487744) `Can you hear me now?`
- 
-* [@emmyblotnick](https://twitter.com/emmyblotnick/status/489463436418359296) `Invent a drink called "Responsibly" and your advertising is set forever` 
+
+* [@kourtneykardash](https://twitter.com/kourtneykardash/status/11175751424) `Do ants have dicks?` 
+
+* [@usher](https://twitter.com/usher/status/654335781687984129) `Justice or Just Us. Is the system broken? `  
+  
+* [@edballs](https://twitter.com/edballs/status/63623585020915713) `Ed Balls`  
+
+<!--* [@kimkardashian](https://twitter.com/kimkardashian/status/16511330274) `EWW Im at lunch,the woman at the table next 2 me is breast feeding her baby w no coverup then puts baby on the table and changes her diaper`-->
+  
+<!--* [@emmyblotnick](https://twitter.com/emmyblotnick/status/489463436418359296) `Invent a drink called "Responsibly" and your advertising is set forever` -->
 
 * [@LeicesterPolice](https://twitter.com/leicesterpolice/status/287937337781002240) `Not a scam: If you’ve committed a burglary in the #Leicester area within the last week - come to our #police station & claim a FREE iPad.`
 
-* [@edballs](https://twitter.com/edballs/status/63623585020915713) `Ed Balls`
 
-* [@usher](https://twitter.com/usher/status/654335781687984129) `Justice or Just Us. Is the system broken? `
+
+
 
 
 <!-- 
+
+* Something about #climateChange, @NaomiAKlein?
+* People prefer short tweets
+
+* More inspirations: https://docs.google.com/presentation/d/1ZFei_hj37aERwxgsfxb4B_40_UXVm70iHk3U-z6cIfw/edit#slide=id.gc6f73a04f_0_36
+
 
 * [@]() `` 
 

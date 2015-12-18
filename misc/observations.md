@@ -18,6 +18,8 @@
 	* **Summarise** your mini-lesson (or part of it)
 	* Ask **questions** to your audience: multiple-choice (don't require much thinking, create confrontation) or creative ones (eg: how could you sum XYZ up in a tweet?) rather than test-type ones (eg: what is the definition of XYZ?) 	  
 
+* Don't assume that people know what *assumption* means!
+
 # Week 3
 
 * **Peer learning**, repeated (mis)behaviours:

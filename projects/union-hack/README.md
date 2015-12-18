@@ -35,7 +35,14 @@ First you will *mash up* existing flags, and then *make your own* flag.
 	* **Be distinctive or be related**. Avoid duplicating other flags, but use similarities to show connections.
 * Create a *GitHub repository* for your team project and **submit** all your work there. 
 
-<!-- -->	
+<!--
+
+* Colour palette + explain choices
+* Show them [Santa's rebranding](http://www.quietroom.co.uk/santa_brandbook/)
+* Interesting post: [Countries with similar flags](https://www.quora.com/What-countries-have-very-similar-looking-flags)  
+* Recommend Illustrator
+
+-->	
 
 ### Inspirations
 
