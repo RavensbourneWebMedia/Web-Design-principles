@@ -55,3 +55,21 @@
 # Week 7
 
 * Metod's presentation felt a bit unrelated to Web Design. It was meant to be general, but I guess at this point people want to dive into Web stuff. We must find ways to teach them general principles and still make it relevant.
+
+# After marking
+
+### Blog
+
+* Blog REGULARLY (as in week by week, not all in one lump)
+* When you reference an external resource (something you've seen, read or learned about somewhere else on the Web) always link to it
+* Write in an active voice, eg “This project allowed me to pick a recipe of my choice and code it using HTML and CSS” instead of “I had to code a recipe” or even worse “The recipe was coded…”
+* simple ≠ simplistic (which means oversimplified and has a negative connotation)
+* complicated ≠ complex 
+
+### General
+
+* GitHub is not an optional > tutorial on how to publish a web-page to gh-pages
+
+* Git is not an optional: it’s a 2-step process: commit and then push
+
+* **Peer learning with no slides**. Use print outs, get your audience to talk, draw, play.. anything but no screen-based presentation
