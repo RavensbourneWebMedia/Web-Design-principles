@@ -23,6 +23,7 @@ We'll look at everyday objects and our surroundings with different eyes and use 
 <!--
 
 * TIP: take loads of pictures, of the same subject, from different angles. Turn the camera, lift it up, take it down..
+* FacesInPlaces to Flickr/Instagram
 
 -->
 
