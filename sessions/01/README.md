@@ -1,6 +1,6 @@
 # Week 1
 
-### Today, Wednesday 30th September 2015
+### Today, Monday 3rd October 2016
 
 1. [Welcome](#welcome) :)
 * Discussion: [Ways of seeing](#ways-of-seeing)
