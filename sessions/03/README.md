@@ -1,6 +1,6 @@
 # Week 3
 
-### Today, Wednesday 14th October 2015
+### Today, Monday 17th October 2016
 
 1. [Peer learning](#peer-learning) on **typography** 
 * Tutorials on [OneTweet](#project)   

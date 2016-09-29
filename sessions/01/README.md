@@ -150,7 +150,7 @@ Next week:
 * What have you made?
 * How can you improve it?
 
-Formative presentation (31.10):
+Formative presentation (24.10):
 
 1. Present your work as a team, both process and results.
 * Reflect on what you learned from it.
