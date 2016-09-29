@@ -3,6 +3,7 @@
 ### Today, Monday 3rd October 2016
 
 1. [Welcome](#welcome) :)
+* Design Thinking Mini Lecture (#our approach to Web Media)
 * Discussion: [Ways of seeing](#ways-of-seeing)
 * Team project: [EyeBombing](#team-project)  
 * Workshop: [GitHub and MarkDown](#workshop)
@@ -149,7 +150,7 @@ Next week:
 * What have you made?
 * How can you improve it?
 
-Formative presentation (28.10):
+Formative presentation (31.10):
 
 1. Present your work as a team, both process and results.
 * Reflect on what you learned from it.
