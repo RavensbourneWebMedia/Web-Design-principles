@@ -25,10 +25,10 @@ When | In class | Homework | Blog
 [Monday<br>27.10](sessions/04)|  **Formative assessment** with special guest |  | Reflection blog
 Week 6<br>Mozfest|
 [Monday<br>07.11](sessions/05)| <ul><li>Peer learning: *symbols and brands* <li>Tutorials on *The Union Hack* | Peer learning
-[Wednesday<br>14.11](sessions/07)| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual design theory for the win! <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
-[Wednesday<br>21.11](sessions/08)| <ul><li>Workshop: HTML & CSS <li>Tutorials on *Code in your plate* |  <ul><li>Peer learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
-[Wednesday<br>28.11](sessions/09)| <ul><li>Peer learning: CSS tricks <li>Workshop: Responsive Web Design<li>Tutorials on *Code in your plate* | Prepare summative (tweak your work) | CSS tricks
-[Wednesday<br>05.12](sessions/10)| **Summative assessment**
+[Monday<br>14.11](sessions/07)| Guest lecturer: [Metod](https://twitter.com/metodb) <ul><li>Visual design theory for the win! <li>Workshop: grid systems  <li>Project: [**Code in your plate**](#code-in-your-plate) | Work on *Code in your plate* | The Web's Grain
+[Monday<br>21.11](sessions/08)| <ul><li>Workshop: HTML & CSS <li>Tutorials on *Code in your plate* |  <ul><li>Peer learning research: CSS tricks <li>Work on *Code in your plate* | *Code in your plate*
+[Monday<br>28.11](sessions/09)| <ul><li>Peer learning: CSS tricks <li>Workshop: Responsive Web Design<li>Tutorials on *Code in your plate* | Prepare summative (tweak your work) | CSS tricks
+[Monday<br>05.12](sessions/10)| **Summative assessment**
 
 <!-- <li>Workshop: how to present your work -->
 
