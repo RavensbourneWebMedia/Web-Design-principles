@@ -3,7 +3,7 @@
 ### Today, Monday 3rd October 2016
 
 1. [Welcome](#welcome) :)
-* Design Thinking Mini Lecture (#our approach to Web Media)
+* Design Thinking Mini Lecture. 
 * Discussion: [Ways of seeing](#ways-of-seeing)
 * Team project: [EyeBombing](#team-project)  
 * Workshop: [GitHub and MarkDown](#workshop)
