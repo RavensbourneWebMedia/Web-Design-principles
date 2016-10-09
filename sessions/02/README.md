@@ -143,7 +143,7 @@ This **team project** is about *looking* and *creating images*. Looking at every
 
 All the project material is [here](../../projects/eye-bombing).
 
-### 8 teams
+### 4 teams
 
 ### 10 minutes per team
 
