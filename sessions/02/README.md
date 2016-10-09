@@ -54,7 +54,7 @@ Beware of *freeloaders*.
 
 ### Let the peer learning begin
 
-#### 8 teams
+#### 4 teams
 
 ~3 people per team 
 
