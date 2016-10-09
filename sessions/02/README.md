@@ -167,7 +167,7 @@ Quiz: what's wrong with these pictures? eg kerning, line-height, too many fonts,
 
 ### OneTweet
 
-This project is about about **typography** and creating *meaning with text*.
+This project is about **typography** and creating *meaning with text*.
 
 All the project material is [here](../../projects/one-tweet).
 
