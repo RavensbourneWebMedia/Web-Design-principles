@@ -12,7 +12,7 @@
 
 # Peer learning
 
-#### 7 teams
+#### 4 teams
 
 #### 15 minutes per team
 
@@ -39,7 +39,7 @@ This **team project** is about about **symbols** and **brands**. By designing fl
 
 All the project material is [here](../../projects/union-hack).
 
-### 8 teams
+### 4 teams
 
 ### ~15 minutes per team
 
