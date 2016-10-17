@@ -113,7 +113,7 @@ Formative presentation (28.10):
 
 2. Add the link to your mini-lesson and any other relevant material to the Google document I emailed you (it's also on Slack).
 
-### Peer learning research ( due for the week after next, 7th Nov)
+### Peer learning research ( due for the week after next, Friday 4th Nov)
 
 #### Symbols and brands
 
