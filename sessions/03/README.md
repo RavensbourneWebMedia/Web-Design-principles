@@ -21,7 +21,7 @@ Have a quick convo about feedback from last week (they should have blogged about
 
 <!--### Let the peer learning begin-->
 
-#### 8 teams
+#### 4 teams
 
 ~3 people per team 
 
@@ -52,7 +52,7 @@ All the project material is [here](../../projects/one-tweet).
 
 This is *not a team project* but we'll see people in groups of 2-3, possibly grouping people who are working on the same tweet.
 
-### 8 groups
+### 4 groups
 
 ### 15 minutes per group 
 
@@ -89,6 +89,10 @@ Between today and next week:
 
 Next week:
 
+Formative Assessment
+
+The Week After:
+
 1. We'll review your work in class
 	
 	* What have you made?
@@ -109,7 +113,7 @@ Formative presentation (28.10):
 
 2. Add the link to your mini-lesson and any other relevant material to the Google document I emailed you (it's also on Slack).
 
-### Peer learning research
+### Peer learning research ( due for the week after next, 7th Nov)
 
 #### Symbols and brands
 
