@@ -117,7 +117,7 @@ Formative presentation (28.10):
 
 #### Symbols and brands
 
-On the Google document I emailed you (you can also find it on Slack), there's a new table with topics around **symbols and brands** for you to learn and teach next week.
+On the Google document I emailed you (you can also find it on Slack), there's a new table with topics around **symbols and brands** for you to learn and teach in our next session after formative.
 
 We'll do this again in *teams*, but not the same people you worked with this week.
 
