@@ -90,7 +90,7 @@ Touching on **branding** elements:
 	
 * **Shapes**: make them simple, so that a kid could draw them.
 
-	![](assets/drawing-logos-from-memory.png)
+	![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/drawing-logos-from-memory.png)
 	
 <!--* Symbols  --> 
 
@@ -100,7 +100,7 @@ Touching on **branding** elements:
   
   	Which of the following don't quite work in b/w?
 	
-	![](assets/logos-bw.jpg)
+	![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/logos-bw.jpg)
 
 * **Naming**  
   
