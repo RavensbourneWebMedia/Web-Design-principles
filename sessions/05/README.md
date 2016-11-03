@@ -68,11 +68,11 @@ Interesting patterns that we observed in your projects:
   
 	For the final submission, explore **tweet’s meaning(s)** and play with visual **metaphors** and cultural **references**.  
   
-	![](assets/snowden-research-by-joe.jpg) 
+	![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/snowden-research-by-joe.jpg) 
 
 * Don't state / illustrate the obvious.
 
-	[![](assets/chip-kidd-apple.png)](https://youtu.be/cC0KxNeLp1E?t=3m17s)
+	[![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/chip-kidd-apple.png)](https://youtu.be/cC0KxNeLp1E?t=3m17s)
 
 	In Chip Kidd's words:  
   
