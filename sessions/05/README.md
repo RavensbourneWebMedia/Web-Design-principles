@@ -140,7 +140,7 @@ Touching on **branding** elements:
 
 # The good, the bad and the ugly
 
-Let's collect shitty design examples on [this Pinterest board](https://www.pinterest.com/metodb/unbelievable-visual-design).
+Let's collect shitty design examples on [this Pinterest board](https://uk.pinterest.com/ajacksonbruce/unbelievable-visual-design/).
 
 When adding a pin, add a short explanation of *why this design sucks* and specify which visual design principles (one or more, in any order) your example doesn't follow:
 
@@ -156,7 +156,7 @@ When adding a pin, add a short explanation of *why this design sucks* and specif
 
 <!-- https://en.wikipedia.org/wiki/Design_elements_and_principles#Principles_of_design -->
 
-[![](assets/VisualDesignTheory_Presentation_Universal_Cover.jpg)](assets/VisualDesignTheory_Presentation_Universal.pdf)
+[![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/VisualDesignTheory_Presentation_Universal_Cover.jpg)](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/VisualDesignTheory_Presentation_Universal.pdf)
 
 Visual Design Theory manual, by [@metodb](https://twitter.com/metodb).
 
