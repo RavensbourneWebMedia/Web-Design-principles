@@ -107,6 +107,16 @@ Formative presentation (28.10):
 
 # Homework
 
+Prepare to present your **ideas**, **experiments** and **creative process** to your colleagues and a special guest next week (28th of October, **formative presentations**).
+
+You'll be presenting your work on:
+
+1. EyeBombing
+2. OneTweet
+3. The Union Hack
+
+Just to clarify: the **final deadline** for all projects is the **5th of December**, so you can continue working on it throughout November. However, we will be starting another project after the formative, so the more you do before the formative, the better.
+
 ### Typography
 
 1. **Publish** your mini-lesson and any other relevant material from today. We recommend GitHub (we :green_heart: :octocat:) but you can publish elsewhere as long as it's accessible by anyone.
@@ -114,76 +124,6 @@ Formative presentation (28.10):
 2. Add the link to your mini-lesson and any other relevant material to the Google document I emailed you (it's also on Slack).
 
 ### Peer learning research ( due for the week after next, Friday 4th Nov)
-
-#### Symbols and brands
-
-On the Google document I emailed you (you can also find it on Slack), there's a new table with topics around **symbols and brands** for you to learn and teach in our next session after formative.
-
-We'll do this again in *teams*, but not the same people you worked with this week.
-
-Your team **mini-lesson** should be **~10 minutes** and you may include:
-
-* **3 key ideas**
-* **Examples** and demonstrations
-* Personal **experiences**
-* **3 open questions to ask the class**
-
-##### Topics: 
-
-1. **Visual symbols** and their cultural meanings, eg: scales → justice, lion → strength/king, apple → health/temptation/tech-company, red → stop/error, floppy disk → save [etc](http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx).  
-  
-	Find plenty of *good* and *bad* examples.
-* **Visual techniques** (aka *rhetorical devices*) for non-literal communication:   
-	
-	* simile 
- 	* metaphor
-	* metonym and synecdoche
-	* irony / sarcasm
-	* lies 
-
-	Find plenty of *good* and *bad* examples.
-* Designing with **colours**: [how to create your own palette](http://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes), even an [edible one](http://idsgn.org/posts/an-edible-color-palette)!
-* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **colours**:
-	
-	* What brand *identity* and *values* do they aim to communicate?
-	* How do they do that *through colours*? Be specific, make plenty of examples.
-	* What *emotional responses* are the brands trying to trigger? Is it effective?   
-  
-	During your mini-lesson, first ask the class what their thoughts are and then present your findings.
-* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **typography**:
-	
-	* What brand *identity* and *values* do they aim to communicate?
-	* How do they do that *through typography*? Be specific, make plenty of examples.
-	* What *emotional responses* are the brands trying to trigger? Is it effective?   
-  
-	During your mini-lesson, first ask the class what their thoughts are and then present your findings. 
-* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **images&video**:
-	
-	* What brand *identity* and *values* do they aim to communicate?
-	* How do they do that *through images&video*? Be specific, make plenty of examples.
-	* What *emotional responses* are the brands trying to trigger? Is it effective?   
-  
-	During your mini-lesson, first ask the class what their thoughts are and then present your findings. 
-* **Visual hierarchy** experiment, using websites/apps that your audience is familiar with:
-
- 	* List the key information points that users are likely seeking.
-	* Assign values (1-5) according to their importance to the average user.
-	* Now, look at the actual design again.
-	* Assign values (1-5) according to the actual visual importance as you see it in the live design.
-	* Does the expected importance match up with the actual designed importance? If not, what could be changed?   
-  
-	During your mini-lesson, first ask the class what their thoughts are and then present your findings.
-
-<!--
-
-**Semiotics 101**: sign, signifier and signified
-
-**Communication**: sender (with intentions), message (through media) and receiver (with interpretations).
-
-* [Teaching to see](https://vimeo.com/45232468): design thinking by Inge Druckrey
-* [Comic Sans is bad](http://designforhackers.com/blog/comic-sans-hate/), or is it?
-
--->
 
 ### Project 
 
