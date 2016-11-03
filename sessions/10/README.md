@@ -29,8 +29,8 @@ Your blog will have **8 posts** (details in the links below):
 1. [Week 1](../01#blog): *EyeBombing*
 * [Week 2](../02#blog): *OneTweet*
 * [Week 3](../03#blog): *Union Hack* 
-* [Week 4](../04#blog): peer learning
-* [Week 5](../05#blog): formative assessment 
+* [Week 4](../04#blog): formative assessment
+* [Week 5](../05#blog): peer learning
 * [Week 7](../07#blog): The Web's Grain
 * [Week 8](../08#blog): *Code in your plate* 
 * [Week 9](../09#blog): CSS tricks
