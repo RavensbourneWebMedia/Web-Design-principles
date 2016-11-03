@@ -36,7 +36,7 @@ One more thing: make your mini-lessons **interactive** (aka *don't recite a pres
 
 9 photo composition tips (featuring Steve McCurry)
 
-[![](assets/steve-mccurry.png)](https://www.youtube.com/watch?v=7ZVyNjKSr0M)
+[![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/snowden-research-by-joe.jpg)](https://www.youtube.com/watch?v=7ZVyNjKSr0M)
 
 ### OneTweet
 
