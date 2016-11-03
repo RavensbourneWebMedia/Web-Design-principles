@@ -42,7 +42,7 @@ One more thing: make your mini-lessons **interactive** (aka *don't recite a pres
 
 Interesting patterns that we observed in your projects:
 
-* You mostly chose Ed Snowden's tweet. Why?  
+* You mostly chose Ed Snowden's or Ed Ball's tweet. Why?  
  
 * You overwhelmingly chose short tweets. Why?
 
@@ -62,11 +62,9 @@ Interesting patterns that we observed in your projects:
 	* [Fontstand](https://fontstand.com/)
 	* [WhatFont tool](http://chengyinliu.com/whatfont.html)
 
-* Vertical lettering: don’t do that, it’s hard to read.
-
-* Some of you got stuck with perception principles (my fault partially).   
+* Vertical lettering: it’s hard to read, so think about how effective this is.  
   
-	For the final submission, explore **tweet’s meaning(s)** and play with visual **metaphors** and cultural **references**.  
+	For the final submission, continue to explore **tweet’s meaning(s)** and play with visual **metaphors** and cultural **references**.  
   
 	![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/snowden-research-by-joe.jpg) 
 
@@ -83,10 +81,7 @@ Interesting patterns that we observed in your projects:
 Touching on **branding** elements:
 
 * **Visual grammar**: starting from one element and building lots of variations that are still recognisable as part of the same *family*.   
-  
-	Example: Joe's tour of the Maldives flag around the globe
-	
-	![](https://raw.githubusercontent.com/RajeevG96/TheUnionHack/master/Joe's%20Flags/Maldives-4.png)
+
 	
 * **Shapes**: make them simple, so that a kid could draw them.
 
@@ -102,13 +97,11 @@ Touching on **branding** elements:
 	
 	![](https://github.com/RavensbourneWebMedia/Web-Design-principles/blob/2016/sessions/07/assets/logos-bw.jpg)
 
-* **Naming**  
-  
-	Jatar, Floridabwe, Portniger, New Lucia :)
+* **Naming / Languages / Use of Text**  
 	
-	Make sure they have no embarrassing meanings in other languages!
+	Make sure you are using the correct language and text!
 	
-	Use [alliteration](http://robdkelly.com/blog/marketing/alliteration-examples/).
+	Use [alliteration](http://robdkelly.com/blog/marketing/alliteration-examples/) when naming your imaginary country / flag.
 	
 	Test their **memorability**.
 
@@ -120,7 +113,7 @@ Touching on **branding** elements:
 
 * **Rehearse** your presentation, don't wing it. 
  
-* Don't expect people to know what you're talking about. 
+* Don't expect people to know what you're talking about - you need to make your presentations clear, informative and simple without over stating the obvious. 
 
 	Have an **intro** slide/section where you *tell them what you're going to tell them*.
 
