@@ -86,3 +86,73 @@ Your post should address these questions (in no particular order):
 	* What can we do better next time?
 	* Did the team reach the goal?
 	* Was there conflict, how do we fix it?
+    
+    #### Symbols and brands
+
+On the Google document I emailed you (you can also find it on Slack), there's a new table with topics around **symbols and brands** for you to learn and teach in our next session after formative.
+
+We'll do this again in *teams*, but not the same people you worked with this week.
+
+Your team **mini-lesson** should be **~10 minutes** and you may include:
+
+* **3 key ideas**
+* **Examples** and demonstrations
+* Personal **experiences**
+* **3 open questions to ask the class**
+
+##### Topics: 
+
+1. **Visual symbols** and their cultural meanings, eg: scales → justice, lion → strength/king, apple → health/temptation/tech-company, red → stop/error, floppy disk → save [etc](http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx).  
+  
+	Find plenty of *good* and *bad* examples.
+* **Visual techniques** (aka *rhetorical devices*) for non-literal communication:   
+	
+	* simile 
+ 	* metaphor
+	* metonym and synecdoche
+	* irony / sarcasm
+	* lies 
+
+	Find plenty of *good* and *bad* examples.
+* Designing with **colours**: [how to create your own palette](http://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes), even an [edible one](http://idsgn.org/posts/an-edible-color-palette)!
+* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **colours**:
+	
+	* What brand *identity* and *values* do they aim to communicate?
+	* How do they do that *through colours*? Be specific, make plenty of examples.
+	* What *emotional responses* are the brands trying to trigger? Is it effective?   
+  
+	During your mini-lesson, first ask the class what their thoughts are and then present your findings.
+* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **typography**:
+	
+	* What brand *identity* and *values* do they aim to communicate?
+	* How do they do that *through typography*? Be specific, make plenty of examples.
+	* What *emotional responses* are the brands trying to trigger? Is it effective?   
+  
+	During your mini-lesson, first ask the class what their thoughts are and then present your findings. 
+* Websites/apps as extensions of a **brand**. Pick 5 websites/apps and analyse their **images&video**:
+	
+	* What brand *identity* and *values* do they aim to communicate?
+	* How do they do that *through images&video*? Be specific, make plenty of examples.
+	* What *emotional responses* are the brands trying to trigger? Is it effective?   
+  
+	During your mini-lesson, first ask the class what their thoughts are and then present your findings. 
+* **Visual hierarchy** experiment, using websites/apps that your audience is familiar with:
+
+ 	* List the key information points that users are likely seeking.
+	* Assign values (1-5) according to their importance to the average user.
+	* Now, look at the actual design again.
+	* Assign values (1-5) according to the actual visual importance as you see it in the live design.
+	* Does the expected importance match up with the actual designed importance? If not, what could be changed?   
+  
+	During your mini-lesson, first ask the class what their thoughts are and then present your findings.
+
+<!--
+
+**Semiotics 101**: sign, signifier and signified
+
+**Communication**: sender (with intentions), message (through media) and receiver (with interpretations).
+
+* [Teaching to see](https://vimeo.com/45232468): design thinking by Inge Druckrey
+* [Comic Sans is bad](http://designforhackers.com/blog/comic-sans-hate/), or is it?
+
+-->
