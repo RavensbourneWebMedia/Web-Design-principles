@@ -2,143 +2,11 @@
 
 ### Today, Wednesday 11th November 2015
 
-1. [Debrief](#debrief): what have done so far?
-* [The good, the bad and the ugly](#the-good-the-bad-and-the-ugly)
-* Workshop: [gridz](#workshop)! 
+1. Workshop: [gridz](#workshop)! 
+*  Review of Summative Assesmet
+*  Open Class Time - Let's work on any areas that need improvement (Mark Up, Hosting your projects, linking your mini lessons ect). 
 
 ### Your [homework](#homework) and [blog](#blog)
-
-
-# Debrief
-
-### EyeBombing
-
-9 photo composition tips (featuring Steve McCurry)
-
-[![](assets/steve-mccurry.png)](https://www.youtube.com/watch?v=7ZVyNjKSr0M)
-
-### OneTweet
-
-Interesting patterns that we observed in your projects:
-
-* You mostly chose Ed Snowden's tweet. Why?  
- 
-* You overwhelmingly chose short tweets. Why?
-
-* **Fonts** have a personality. Don't just pick one, try many!  
-  
-	Try and avoid using default fonts like *Myriad*, *Arial*, *Times New Roman*, *Verdana*, *Trebuchet* and *Comic Sans*.  
-  
-	Good online sources of fonts: 
-	
-	* [Font Squirrel](http://www.fontsquirrel.com/)
-	* [Adobe Typekit](https://typekit.com)
-	* [League of Movable Type](https://www.theleagueofmoveabletype.com/)
-	* [Google Fonts](https://www.google.com/fonts)
-	* [Fonts in Use](http://fontsinuse.com/)
-	* [Typecast](http://typecast.com/)
-	* [Typewolf](https://www.typewolf.com/)
-	* [Fontstand](https://fontstand.com/)
-	* [WhatFont tool](http://chengyinliu.com/whatfont.html)
-
-* Vertical lettering: don’t do that, it’s hard to read.
-
-* Some of you got stuck with perception principles (my fault partially).   
-  
-	For the final submission, explore **tweet’s meaning(s)** and play with visual **metaphors** and cultural **references**.  
-  
-	![](assets/snowden-research-by-joe.jpg) 
-
-* Don't state / illustrate the obvious.
-
-	[![](assets/chip-kidd-apple.png)](https://youtu.be/cC0KxNeLp1E?t=3m17s)
-
-	In Chip Kidd's words:  
-  
-	> Don't treat people like morons.
-
-### Union Hack
-
-Touching on **branding** elements:
-
-* **Visual grammar**: starting from one element and building lots of variations that are still recognisable as part of the same *family*.   
-  
-	Example: Joe's tour of the Maldives flag around the globe
-	
-	![](https://raw.githubusercontent.com/RajeevG96/TheUnionHack/master/Joe's%20Flags/Maldives-4.png)
-	
-* **Shapes**: make them simple, so that a kid could draw them.
-
-	![](assets/drawing-logos-from-memory.png)
-	
-<!--* Symbols  --> 
-
-* **Colours**
-
-	Your composition should work in black/white only.  
-  
-  	Which of the following don't quite work in b/w?
-	
-	![](assets/logos-bw.jpg)
-
-* **Naming**  
-  
-	Jatar, Floridabwe, Portniger, New Lucia :)
-	
-	Make sure they have no embarrassing meanings in other languages!
-	
-	Use [alliteration](http://robdkelly.com/blog/marketing/alliteration-examples/).
-	
-	Test their **memorability**.
-
-### General observations
-
-* Make sure you **read the brief**. Have a version that strictly follows it, and another that pushes the boundaries.
-
-* Be prepared for tech to fail during your presentation. Have a **plan B**.
-
-* **Rehearse** your presentation, don't wing it. 
- 
-* Don't expect people to know what you're talking about. 
-
-	Have an **intro** slide/section where you *tell them what you're going to tell them*.
-
-* Explain your process, not just the end results.   
-  
-	Show us how you got there.  
-  
-	[![](http://fiascodesign.co.uk/wp-content/uploads/2014/06/03-B_VS.jpg)](http://fiascodesign.co.uk/case_studies/videoscribe-case-study/)
-
-* *Like it / Don't like it* is not professional. It may be ok on FB, but not during a design critique. Rather say 
-
-	> I chose this font (colour, picture, shape, xyz) **because**...
-
-	and after *because* never use *I like it* or *it's interesting*.  
-  
-	![](assets/thumbs-down.png)
-
-# The good, the bad and the ugly
-
-Let's collect shitty design examples on [this Pinterest board](https://www.pinterest.com/metodb/unbelievable-visual-design).
-
-When adding a pin, add a short explanation of *why this design sucks* and specify which visual design principles (one or more, in any order) your example doesn't follow:
-
-- [ ] There is no *harmony* in this design, because...
-- [ ] The *spacing* of elements makes me cringe, because...  
-- [ ] The *hierarchy* is off, because...  
-- [ ] This design is *unbalanced*, because...
-- [ ] The *contrast* is bad, because...
-- [ ] *Scale* is used in a weird way, because...
-- [ ] The *visually dominant* element is not the right one, because...
-- [ ] Elements that should be *similar* are not, because...
-- [ ] The *message* is wrong, because...
-
-<!-- https://en.wikipedia.org/wiki/Design_elements_and_principles#Principles_of_design -->
-
-[![](assets/VisualDesignTheory_Presentation_Universal_Cover.jpg)](assets/VisualDesignTheory_Presentation_Universal.pdf)
-
-Visual Design Theory manual, by [@metodb](https://twitter.com/metodb).
-
 
 # Workshop
 
@@ -218,3 +86,17 @@ What makes Web things **different** from other media?
 How can we use the unique properties of the Web medium to our advantage (for instance, to make a **recipe** that doesn't look just like a printed page)?
 
 ![](http://frankchimero.com/writing/the-webs-grain/seabig.jpg)
+
+# Review of Summative
+
+What will you need to hand in for summative? [Find it all out here.] (https://github.com/RavensbourneWebMedia/Web-Design-principles/tree/2016/sessions/10#hand-in-package)
+
+# Class Open Time
+
+An afternoon session to work on any areas of the course so far that you think may need improvement. 
+
+This weeks project involves writing Mark Up. If you haven't had time to go through the mark up tutorial, this would be a good use of the afternoon session. (Find the mark up tutorial here) [http://www.markdowntutorial.com/]
+
+Each week you should have been hosting and supplying links to your mini lessons. If you haven't done this yet, this would be a good use of this afternoons time. 
+
+If you need more time to practice photoshop and illustrator, now would be a good time. 
