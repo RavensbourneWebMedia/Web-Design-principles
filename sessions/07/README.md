@@ -1,6 +1,6 @@
 # Week 7
 
-### Today, Wednesday 11th November 2015
+### Today, Monday 14th November 2015
 
 1. Workshop: [gridz](#workshop)! 
 *  Review of Summative Assesmet
@@ -89,13 +89,13 @@ How can we use the unique properties of the Web medium to our advantage (for ins
 
 # Review of Summative
 
-What will you need to hand in for summative? [Find it all out here.] (https://github.com/RavensbourneWebMedia/Web-Design-principles/tree/2016/sessions/10#hand-in-package)
+What will you need to hand in for [summative?] (https://github.com/RavensbourneWebMedia/Web-Design-principles/tree/2016/sessions/10#hand-in-package)
 
 # Class Open Time
 
 An afternoon session to work on any areas of the course so far that you think may need improvement. 
 
-This weeks project involves writing Mark Up. If you haven't had time to go through the mark up tutorial, this would be a good use of the afternoon session. (Find the mark up tutorial here) [http://www.markdowntutorial.com/]
+This weeks project involves writing Mark Up. If you haven't had time to go through the [mark up tutorial] (http://www.markdowntutorial.com/), this would be a good use of the afternoon session.  
 
 Each week you should have been hosting and supplying links to your mini lessons. If you haven't done this yet, this would be a good use of this afternoons time. 
 
