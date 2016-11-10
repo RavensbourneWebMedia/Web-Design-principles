@@ -1,6 +1,6 @@
 # Week 8
 
-### Today, Wednesday 18th November 2015
+### Today, Monday 21st November 2015
 
 1. [What is **code**?](#what-is-code) 
 * [Meet **HTML**](#meet-html)
@@ -34,7 +34,7 @@ Code is about
 *   giving instructions
 *   **communication**
 
-If I want to talk to my **grandma**, I need to use Italian. To communicate with you, I use English. 
+If Tor wants to talk to his **father**, he needs to use Norwegian. To communicate with you, I use English. 
 
 To **talk to a computer**, we use...
 
