@@ -33,7 +33,7 @@ You're here to practice what you'll do in your next job.
 
 #### We're here to become *co-learners*.
 
-### 8 teams
+### 4 teams
 
 ### 15 minutes per team
 
