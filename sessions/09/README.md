@@ -1,6 +1,6 @@
 # Week 9
 
-### Today, Wednesday 25th November 2015
+### Today, Monday 28th November 2016
 
 1. Peer-learning: [CSS tricks](#peer-learning)
 * Workshop: [Responsive Web Design](#workshop)
